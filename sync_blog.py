@@ -8,8 +8,8 @@ import random
 
 # --- 設定區 ---
 # 依然維持抓最新的 20 篇，以免跑太久
-BLOG_JSON_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=20'
-AUTHOR_NAME = 'Tim Shan'
+BLOG_JSON_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=500'
+AUTHOR_NAME = 'TimShan'
 # -------------
 
 def get_high_res_image(entry):
