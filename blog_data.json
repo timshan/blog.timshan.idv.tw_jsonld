@@ -1781,5 +1781,1645 @@
             "Windows10",
             "軟體使用教學"
         ]
+    },
+    {
+        "title": "[How To] 有關我國政府開放資料(Open data)授權方式之說明",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-open-data.html",
+        "date": "2018-03-27T22:50:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnBBv1ZIr7jl_C4bzWzj7__-Sp_9BnonNLb8WYZfz6I3kvKmg0JnsAO25RuB-mqifFNDpfEzNAuBn1KifkvXlMZNHu6hFHgrrlK_UxgelSTum8PDPBmzWJk0pg8dv2yBwCVBuR-UWpDG7Q/s1600/001.png",
+        "summary": "從國發會推動政府開放資料以來，不少政府機關都加入開放資料的行列，諸如政府預算、國家統計、醫療保健、食品安全等相關主題的資料集都可以在各個機關的開放資料找到，甚至在開放知識基金會（Open Knowledge Foundation）2015年...",
+        "tags": [
+            "Gov.tw",
+            "HOW TO",
+            "opendata"
+        ]
+    },
+    {
+        "title": "[How To] 在Windows 10使用熟悉的「自黏便箋」",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-windows-10.html",
+        "date": "2018-03-25T10:45:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpU-eDqd8K0UF__PnQcvsk_kD1BbmykXyRBalxI-Q3_-9O0g8zOwXHcjbPkX3YPDntVu1iBbo8O_2ZMHfZCvtZjtT3vlwUnrZaq61pMR4VQicvhlQ2wFgO4feU9XSJWCzV5J5wLkj-aJn/s1600/Cover.png",
+        "summary": "從Windows 7時代開始，「自黏便箋」這個小工具就頗受歡迎，雖然功能陽春，但用來記錄一些瑣碎的待辦事項相當好用，今天就來介紹Windows 10的自黏便箋要如何使用。 使用說明 開啟Sticky Notes 這裡介紹在Windows10...",
+        "tags": [
+            "HOW TO",
+            "Windows",
+            "Windows10",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 用第三方擴充套件「In My Pocket」來彌補Mozilla Firefox內建Pocket的不足",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-in-my-pocketmozilla-firefoxpocket.html",
+        "date": "2018-03-25T02:29:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkPgDU8f0GMD9uyb1-D5GtbU5z-K-LSxaf0dlQrmG1X6JhIva5GegbbxL8k_RDHZQZLpxTg31xcJ68fGj8-O2kcGL5ZvbwPfFQk3fcs6r4aj7TPZ34KvROidcyG9l4FZyF5pg4BtLCabXE/s1600/Cover.png",
+        "summary": "在網路如此發達的現代，在獲得資訊的當下未必有時間能夠好好的消化，如果什麼都加到網路瀏覽器的書籤裡頭，那很快使用者就分不清楚什麼是垃圾什麼是有用的資訊。 而「稍後閱讀」就是用來處理上述問題的一個手段，使用者可以先將有如過江之鯽的網頁儲存起來，...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "Pocket",
+            "擴充套件",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To]用擴充套件OneTab來管理瀏覽器過多的閒置分頁(適用於Mozilla Firefox、Google Chorme)",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-toonetabmozilla-firefoxgoogle-chorme.html",
+        "date": "2018-03-20T00:59:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_txRbY9B679EniNXSgcR991ZBHxAoJ4FTEhPz5wJDgDyFCvW_AlkTubFiyaWSy8pKrSaXmwPZgjPgeIVD44T13IaTwz64f2qYPwDkuhQKO3JCnkTCaJPr9egSYZDvh8WYI_wCsQl9Qoh3/s1600/Cover.png",
+        "summary": "自從分頁(Tabs)這項概念被引入網頁瀏覽器之後，許多使用者應該跟我一樣，隨著使用的時間拉長，瀏覽器不知不覺中就開了數十個分頁，甚至 像這個案例一樣開到將近兩千個分頁 ，但其實大多數的分頁都是沒必要持續開啟的閒置分頁，大可在需要的時候再打開...",
+        "tags": [
+            "Firefox",
+            "Google Chrome",
+            "HOW TO",
+            "擴充套件",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] Firefox 57版的新分頁功能(Activity Stream)設定教學",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-firefox-57activity-stream.html",
+        "date": "2018-03-19T00:08:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AgmBgFaZTtg3vv85VeJvdH_sxW8UBqtFwT-ip1NcTvtUqGL8u_HzKIzRlYZoQD-6Wl9yKAXxh6h2B8SbSIOWIf7itbAbxR_s9kO2eTVnvWp9mQ0ED36UoNLx2GIozDSlxxQHeynX0Fcf/s1600/000.png",
+        "summary": "從2016年開始，Mozilla重新啟動了 Test Pilot ，並且開放數項功能供使用者進行相關測試、體驗，而其中也有些當時的測試項目被納入正式功能或成為擴充套件，像是Tab Center、Containers、Ｔracking Pro...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 用擴充套件「Save In...」指定多個下載資料夾(適用於Mozilla Firefox、Google Chrome)",
+        "link": "http://blog.timshan.idv.tw/2018/03/firefox-save-in.html",
+        "date": "2018-03-18T13:45:00.003+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6EOcdcIV1V9Cp2o0dtC_R3Gnj967ieQGbweY9jWtFP8cCmL1Hcubdp6c7cwkOBBluKklLiBMS7bUkVhm2H_HwGT5U1UWG9fbftUeBbdjVSZgRr6kGQFVqEhRzB6UPPZcuaidG6kCgr0z2/s1600/001.png",
+        "summary": "目前的主流瀏覽器如Google Chrome與Mozilla Firefox，下載檔案的處理方式有兩種，一種是每次下載瀏覽器都會詢問使用者儲存位置，另一種則是每次下載都直接儲存到使用者所指定的資料夾。現在出現一個叫做「Save In...」...",
+        "tags": [
+            "Firefox",
+            "Google Chrome",
+            "HOW TO",
+            "擴充套件",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 從Firefox59版開始，使用者將可以拒絕所有「網站推送訊息」的請求",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-firefox59.html",
+        "date": "2018-03-17T21:33:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdPkN-2irjr8PsMBwIXGHIcliazFXxbU622Zo72rm2ulO4RjZGttMtvRy4NfTjUAeUT45MfhukeVYQdrA-kqjCLOBt7D15gldijfxcE_LhyphenhyphenBiGH1ZZnH4AmtZ14clIOkhiP11dlfIehGWw/s1600/001.png",
+        "summary": "Web Notification從HTML5開始被納入標準語法之中，而這項功能允許網站對使用者發出「網頁推送訊息」，當網站發布或更新內容時，在Firefox開啟時，就會在畫面的右下角出現通知視窗( 了解更多 )。一但網站實作這項功能，造訪網...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 利用線上RSS閱讀器服務 打造專屬的新聞閱讀環境",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-rss.html",
+        "date": "2018-03-16T00:59:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDg4SdLmlnmKKV3r8M-duBGkWag7Pb-n9zg36SS4iNG86q5yKeiUCq_FNA55q4hXEtGx7dfx9smWdVWMsBU0qksKzdz5YPOd8lj6w8-hGxsqlWDENC0KG9aPOfWG_QIciWKJv2a42amJwy/s1600/Cover.png",
+        "summary": "在智慧型手機如此普及的現代，新聞App多如牛毛，但對我來說，其實有些問題存在。首先是現有的新聞APP多半是由單一新聞媒體業者自行建構，自由時報的新聞APP，裡面只提供自由時報的新聞，紐約時報的APP，理所當然的只有來自紐約時報的新聞，但如果...",
+        "tags": [
+            "HOW TO",
+            "RSS",
+            "線上工具"
+        ]
+    },
+    {
+        "title": "[How To] Fate/Grand Order (F/GO) 遊戲設定簡介 (日文版) ",
+        "link": "http://blog.timshan.idv.tw/2018/03/how-to-fategrand-order-fgo.html",
+        "date": "2018-03-12T23:18:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOGBTpAfjGvui5uLTJpZAW9mZHurrImCH48kJVyJSh3miyDqMKhRN8JiZk2ssaYB_Tw_zBtYmMc1fc7-QraqGsNv2ke4IpDK1DvrpgCXKlsJqpC_CBSSIPfmq1Nyc_DJwhV2Zv9AOJEnj/s1600/CIhIN5QUsAAa_2C.png",
+        "summary": "先前曾經介紹過 Fate/Grand Order (F/GO)引繼教學 ，後來在推人入坑時，發現剛入坑的新手對於遊戲設定的部分比較容易有疑惑，譬如說為什麼我都已經把莉莉絲設定為小屋內的從者，但進小屋之後卻是鐵內褲對著我笑啊！所以這次想對日版...",
+        "tags": [
+            "F/GO",
+            "HOW TO",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 關閉WIndows 10的驅動程式自動更新(適用於家用版)",
+        "link": "http://blog.timshan.idv.tw/2018/01/how-to-windows-10windows-update.html",
+        "date": "2018-02-27T22:04:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeFhjaSVWmm1Rss1MY-gSkAG1zNqM2kj_S4B6IVmfA5Ore8dD6I02ZZW-rxUO6dhS22CBQs0CwZOQRQdEltGUTZiPGn5J0ogsUD5HWfBcYROc6oQKS0fNNvfJGn0lEakJFMENgfVM1_R99/s1600/004.png",
+        "summary": "目前最常看到有關Windows Update的災情，除了1709、1803這類重大版本功能更新造成的問題之外，其次就是因為驅動程式更新後造成的系統異常情形，譬如 2015年Nvidia驅動程式在Windows自動更新後導致多螢幕、SLI設定...",
+        "tags": [
+            "HOW TO",
+            "Troubleshooting",
+            "Windows",
+            "Windows update",
+            "Windows10"
+        ]
+    },
+    {
+        "title": "[App] 《高速公路1968》 ─ 國道、快速道路即時路況、影像及替代道路查詢",
+        "link": "http://blog.timshan.idv.tw/2018/02/app-1968-app.html",
+        "date": "2018-02-19T01:45:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirqQ6h7MxuFuGUId9Kx93FDQ70j_j8jprN-ES8pmNbPl3HPWTmZcpnvF5GGmq9IyXJdBdOO9beGmNgHlbTmXnADyvCUyiVCYImPCw9z-4Vigxj6N7HfLcBDd35ea8Xa-BDiBPtJWhVsAoR/s1600/Cover.png",
+        "summary": "最近正逢春節連假，如果有返鄉或出遊的民眾，應該都很關心國道的交通狀況，雖然交通部很早就已經將即時路況資訊放到網站上供民眾查詢，但隨著行動網路和智慧型手機的普及，相關服務的APP化已是無法避免的，因此交通部高公局後來就推出了「高速公路1968...",
+        "tags": [
+            "Android",
+            "App",
+            "Gov.tw",
+            "HOW TO",
+            "iOS",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] VLC Media Player影片錄製及截圖功能介紹",
+        "link": "http://blog.timshan.idv.tw/2018/02/how-to-vlc-media-player.html",
+        "date": "2018-02-18T13:05:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYG9VGLh2BA9f9weKaesA9Nl0jDeIKVCCdz8R2WQrE6wR9-IRk0gduE0pyEydIvrboaiQggKpq6gnh7eo68mpHgyyE36XTtGbDFtqYBCFqVz72Txqu8p2pszAR72T0ZL1hc32shDRums62/s1600/Cover.png",
+        "summary": "前陣子才剛寫過網誌 介紹VLC Media Player 這套影音播放程式，它是我目前在 MPC-HC專案終結 以後的替代方案，VLC Media Player跨多種平台(Windows, Mac OSX, Linux, Android, ...",
+        "tags": [
+            "HOW TO",
+            "影音播放器",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 簡單易上手的影音播放器 ─ VLC Media Player 3.0.0",
+        "link": "http://blog.timshan.idv.tw/2018/02/vlc-media-player-300.html",
+        "date": "2018-02-15T09:31:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipR4jxvxKKXa3Nd7_wWLNcrCh0b9hJZdDK6ARybmPwB_aX7XOZOg30vV29fLw3uYWLH95hZU9kY3nAfSVQFLsTzW1W1d3dQLYMzg3XtqYXVeS0b5ebEiqXiWCiadgxuw57FtjYIgAip8T4/s1600/Cover.png",
+        "summary": "以前我曾經在這個網誌上寫過一篇 MPC-HC的相關介紹 ， MPC-HC 是我近幾年認為在Widnows平台上最好用的影音播放器，那篇後來沒有隨著版本更新的另一個原因，是一位MPC-HC的設定越來越懶人，當時寫的教學後來看都顯得多餘XD。 ...",
+        "tags": [
+            "HOW TO",
+            "影音播放器",
+            "軟體",
+            "軟體使用教學",
+            "開源軟體"
+        ]
+    },
+    {
+        "title": "[Portable] 可攜式軟體系列介紹 ─ 市占率最高的網路瀏覽器 Google Chrome可攜版",
+        "link": "http://blog.timshan.idv.tw/2018/02/portable-google-chrome.html",
+        "date": "2018-02-12T22:55:00.003+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gaTGnVjrtXsiqEL89XjQxAwvcJubpCMqwJpujPfZVvqlH_57kAjdatvIUugko5cC2d-KjjWAMWIurqp8gbUK_OeoH-M9WDAsD_H4cVYDCRbMYKUvDoJn0ZPdNQLUaJIXEtatiNDOrIZL/s1600/001.png",
+        "summary": "Google在2016年8月的時候，曾經宣布 (消息來源) 將會逐步停止對Chrome App的支援，在2017年用戶將不再能從Chrome線上應用程式商店下載到Chomre APP，2018年初將會於新版Google Chorme正式關閉...",
+        "tags": [
+            "Google Chrome",
+            "HOW TO",
+            "Portable",
+            "可攜式軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[Portable] 可攜式軟體系列介紹─截圖繪圖工具PicPick",
+        "link": "http://blog.timshan.idv.tw/2018/02/portable-picpick.html",
+        "date": "2018-02-12T17:52:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghuDcCtbGdKowdDIKXWl7yiL0M8b1iWlZw3FXnmBnHkUFFPDtzWjSgc2oKHBea1LU2kbpEDlEwn4aiVpOCoktPMR51FE7E29TGX4k76To4_aJoSLHBQxhpKuzWHPA9Az0hWj5na76-mi1T/s1600/000.png",
+        "summary": "由於目前我工作的單位，並不允許員工自行安裝軟體，所以一開始其實是在尋找有提供可攜版(免安裝版)的截圖繪圖工具，沒想到當我開始使用Picpick之後，原本最常使用的 Paint.net 反而逐漸被 PicPick 這款由截圖軟體發展而來的繪圖...",
+        "tags": [
+            "Portable",
+            "可攜式軟體",
+            "軟體"
+        ]
+    },
+    {
+        "title": "[How To] 將手機分享的網路設定為計量付費連線，避免Windows Update吃光你的網路流量。(Windows10)",
+        "link": "http://blog.timshan.idv.tw/2018/01/how-to-windows-updatewindows10.html",
+        "date": "2018-01-27T16:34:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii4sN3rpyzjcD2L9eEWkVrKDjjHIt1xcN6_VFLHWUHjGltD1aPVDJuaQaZqOxec0C6jSVfPfZ6z8otwVBAEVoy9LSnLqvlYXs6fwmNB-tgbTuzs4XlJha57DQj-sdrZfTyOwK8NOUXMLT9/s1600/007.png",
+        "summary": "原本我的規劃是先寫Windows系統重設教學，但昨天發生了一件令人悲痛的事情，讓我決定先寫這個主題。 這裡先講一下事情經過，昨天我帶著筆電去參加教育訓練，接著像其他人一樣用手機分享網路供筆電使用，但是當教育訓練經過兩小時之後，Windows...",
+        "tags": [
+            "HOW TO",
+            "Troubleshooting",
+            "Windows",
+            "Windows update",
+            "Windows10"
+        ]
+    },
+    {
+        "title": "[How To] 使用Windows 10「工作檢視」(虛擬桌面)功能，避免太多的工作視窗導致工作效率下降。",
+        "link": "http://blog.timshan.idv.tw/2018/01/how-to-windows-10.html",
+        "date": "2018-01-20T19:48:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZEpPD73KOxGXh82si-IVK_P3Qk2fWQi0fIA_Vb6ymx9rtOitUT3fnQnc-66FJqKJAKAFCuul-sDYf0RNmbA8hiYUpGTGFtsrEo7hHWnsR02PkXFMB7jgUHquwp0xZWJfI-yGJB8JbgPt/s1600/cover.png",
+        "summary": "若是熟悉Linux或MacOS的使用者，對於「虛擬桌面」這項功能肯定並不陌生，但是Windows要等到Windows10這個版本，才將虛擬桌面列為內建功能，不過由於時整合了過去的Alt+Tab功能，故這項功能在Windows底下被稱為「工作...",
+        "tags": [
+            "HOW TO",
+            "Windows",
+            "Windows10",
+            "虛擬桌面",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] Fate/Grand Order (F/GO)引繼教學(日文版)",
+        "link": "http://blog.timshan.idv.tw/2018/01/howto-fategrand-order.html",
+        "date": "2018-01-14T09:52:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOGBTpAfjGvui5uLTJpZAW9mZHurrImCH48kJVyJSh3miyDqMKhRN8JiZk2ssaYB_Tw_zBtYmMc1fc7-QraqGsNv2ke4IpDK1DvrpgCXKlsJqpC_CBSSIPfmq1Nyc_DJwhV2Zv9AOJEnj/s1600/CIhIN5QUsAAa_2C.png",
+        "summary": "當你下定決心要跳入Fate/Grand Order這個錢坑手遊之後，最重要的事情就是產生一組引繼碼。 倘若你手機遺失、手機損壞又或者是因為蘋果的惡意，要救回F/GO的進度時，輸入引繼碼就像是告訴伺服器，我就是某某某玩家，請把我過去的紀錄與這...",
+        "tags": [
+            "F/GO",
+            "HOW TO",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 關閉Windows 10檔案總管「最近使用過的檔案」功能",
+        "link": "http://blog.timshan.idv.tw/2018/01/howto-windows-10.html",
+        "date": "2018-01-13T21:51:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBUxxsWsX93B6DC0dZsyJTefWEKeZbSUkqdCYLaMOlRhcTyd7iBVFaGzq88LVXA-VGNpVnxISCt5tnqfcaddsLP0juIJ84yoSDUS2vdW5vCJEPb3z1pJqjeZgOm5gIwlUIVZx1IAnmKlWQ/s1600/001.png",
+        "summary": "剛開始使用Windows 10的使用者，應該會發現檔案總管跟過去有點不同，一打開就會顯示「最近使用過的檔案」。如果電腦只有使用者自己在使用，那的確是挺不錯的功能，但如果是和家人共用的情況下，也等於是直接把最近開對於啟檔案的紀錄暴露出來，對於...",
+        "tags": [
+            "HOW TO",
+            "Windows",
+            "Windows10",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 如何將Windows10的數位授權連結(綁定)Microsoft帳號？",
+        "link": "http://blog.timshan.idv.tw/2017/12/how-to-windowws10microsoft.html",
+        "date": "2017-12-14T23:33:00.006+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic38pWXASpfZQAgZC_gg3U-kso6VQk1NNiYoKdVM1L2lxb9Wpfzx96Yk6pTN3REj1c8F5nROK3mgS_JHpvaBnxNE_wu1il39lN5R_mbX8fjESdJMGTjuQ1ckFW7KA_QkQOZgjX2bGYQklh/s1600/Win10.jpg",
+        "summary": "前一篇網誌是我在2016年6月那時所寫的，轉眼間現在已經到了2017年年底，雖然中間也不是沒有興起想寫網誌的念頭，但那段期間的生活上也不像過去那般有餘裕，直到最近社畜的生活比較上軌道後，才有機會來想想要寫些什麼。 這次要介紹的是Window...",
+        "tags": [
+            "HOW TO",
+            "Windows",
+            "Windows10",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[艦これ] 遠征計算機 — 讓遠征更有效率",
+        "link": "http://blog.timshan.idv.tw/2016/06/blog-post.html",
+        "date": "2016-06-10T20:00:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG6JdG5e59t_41VYhBjPTTc8r9RCcunGMSWkeyJF4TmNPw16Os0cZvhkIpUnvfqanc0MgPNd08dLdUaOpODrlKeS7rHuTqtKVlswLta3JUT9YWnxCexOR0JbivHfCQ-OPbhN3NxhxlPyxX/s1600/000.png",
+        "summary": "經常有人會問，跑哪種遠征最划算，一般而言得到的答案不外乎「北方鼠輸送作戦」、「東京急行」、「東京急行(弐)」，但其實每個提督花在遊戲上的時間並不相同，所以在遠征上的安排可能會有些許差異，這時我們就可以利用由 艦載機廚 所製作的 遠征計算機 ...",
+        "tags": [
+            "HOW TO",
+            "線上工具",
+            "艦これ"
+        ]
+    },
+    {
+        "title": "[艦これ] KC3改 － Google Chrome的艦これ輔助工具",
+        "link": "http://blog.timshan.idv.tw/2016/02/kc3-google-chrome.html",
+        "date": "2016-05-08T01:23:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1vuXMxFCnTmDkAJ7sM0pi2rlziA7hmBkJncLum7HhHdzWBBAap8_21GyPF0uANujJ1n_lvizsxigt_-uObkuWF_FlkZvlmlVqw4GYHkMylhIPe8fcze-5IxgpQhiMFQplZ7TUBInnJO3l/s1600/zqLcTSA.jpg",
+        "summary": "寫在最前頭的更新後記(2016/05/08) 這次的內容更新總算是告一段落了，在年初寫好KC3改的基本操作之後，因為各種原因而導致進度停擺，最近才比較能空出時間來介紹策略研究室的部分，然而隨著時間的推移，我對於使用上的見解其實也有所改變了，...",
+        "tags": [
+            "Google Chrome",
+            "擴充套件",
+            "艦これ"
+        ]
+    },
+    {
+        "title": "[艦これ] 課金二三事 - 如何將Webmoney轉換成DMMポイント?",
+        "link": "http://blog.timshan.idv.tw/2016/01/how-to-webmoneydmm.html",
+        "date": "2016-01-31T14:54:00.003+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXD3BRqR2FNgKEvNaL1NsHKD_4FmvVFgIevBYKItL83H2WkOD5GDyMrC5ZbmOeNNUo3828tAB0lF-iW_7n_W4zSbMjcRJAtLjOjkFyWs-mH6K4XL_7cl9eeP60nzdyuzMNdSyqkFyrtEyb/s1600/000.png",
+        "summary": "艦これ 的玩家除了使用魔法卡課金之外， DMM 還提供各種不同的管道讓使用者取得DMMポイント，譬如 Bitcash 、 Paypal 、樂天、DOCOMO等等。而著眾多管道之中，個人比較偏好 Webmoney ，這裡就大略介紹取得Webm...",
+        "tags": [
+            "DMM.com",
+            "HOW TO",
+            "艦これ",
+            "課金"
+        ]
+    },
+    {
+        "title": "[How To] VPN Gate：由日本筑波大學所營運的免費VPN服務",
+        "link": "http://blog.timshan.idv.tw/2016/01/how-to-vpn-gate.html",
+        "date": "2016-01-24T17:50:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5ASMK3DGd_fzNL_4yzAb3AS8PZx6Ug_sOGQQsdB4ehC99Ww2IF3V0m54NMQwgBUUZp9KfKRIkx-2vvC41XZMeA019qyfgBRU5WE3Htl5ZNrY9L6LGH5wZ7kxfnIYwgYPKEVQbI8JYrzP/s1600/000.png",
+        "summary": "一般使用者會接觸到VPN，最常見的情況就是想訪問被封鎖的網站、匿名上網、又或者想使用某些限定國家或區域的線上服務、遊戲等等。如果使用者不想付費購買VPN服務，這時候可以利用筑波大學以學術研究為目的而營運的 VPN Gate 來達成，VPN ...",
+        "tags": [
+            "HOW TO",
+            "P2P",
+            "VPN"
+        ]
+    },
+    {
+        "title": "[艦これ] 如何手動烤餅乾？(新增KCV烤餅乾)",
+        "link": "http://blog.timshan.idv.tw/2016/01/blog-post.html",
+        "date": "2016-01-01T12:22:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicMxkR3QGWPtd-xDR22AwDGa80E4twgE6Dv8E_x-qBtJQ2TSW9QrH06sZruIYJggb7QrHhFHfah-qn3FMS3Kjg3GxKsoEzJe1gTz6lQohbh208DjQDmwaOXAXil2sJqH5nY7Fx5zl1mBgo/s1600/E3Gutsn.jpg",
+        "summary": "前面寫了一篇關於 「艦娘直連 Kancolle Direct Link」這個Google Chrome擴充套件的介紹文 ，雖然那個套件很方便，但有些時候還是需要手動烤餅乾的。舉例來說，如果台灣的玩家想要使用 提督業も忙しい！ 這個艦これ專用...",
+        "tags": [
+            "Firefox",
+            "Google Chrome",
+            "HOW TO",
+            "Internet Explorer",
+            "Kancolle",
+            "烤餅乾",
+            "艦これ"
+        ]
+    },
+    {
+        "title": "[艦これ]  烤餅乾一鍵完成，Google Chrome擴充套件：艦娘直連 Kancolle Direct Link",
+        "link": "http://blog.timshan.idv.tw/2015/12/how-to-google-chrome.html",
+        "date": "2015-12-17T15:58:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnaEf61ZZY9xi8sWn9aY_1d0tpvVtixZ_IXxypWOWkwNjMYR6T-ckr60jlp6ASxCVYVY7rRmf7bBZZYdJLL6ti9v3IHsuoMhXOzZ9BlYpsmTyLZEaiye86jj2aGOboj2I3VGKhPqoz-h04/s1600/001.png",
+        "summary": "從入伍前至今的這段期間，我閒暇時間主要是在玩一款名叫《 艦隊Collection -艦Colle- 》的線上卡片遊戲(雖然是線上遊戲，但在遊戲中其實完全不會與其他玩家互動)，這款遊戲將日本二戰時期的軍艦擬人化為一種俗稱「艦娘」的卡片，玩家在...",
+        "tags": [
+            "Google Chrome",
+            "HOW TO",
+            "Kancolle",
+            "擴充套件",
+            "烤餅乾",
+            "艦これ"
+        ]
+    },
+    {
+        "title": "[How To] 忘記COMODO Internet Security的密碼該怎麼辦？",
+        "link": "http://blog.timshan.idv.tw/2015/02/how-to-comodo-internet-security.html",
+        "date": "2015-02-13T22:11:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfrvRCe7Rad0vMy4fm8qZ2vnrZEY96c_riQyQZ_w_AeKZ76DFuoYyjzWN9NQy4Ehb_fNVxzF4BnnYxcJ3-q2IPVJRnOH704EV246c0Gh8LKq8VMg74GgE2DMwDJ64LH7PSokk8kVNxLU2/s1600/CIS8.png",
+        "summary": "前面我寫了一篇文章介紹 COMODO Internet Security 8的防火牆設定教學 ，裡面有提到建議使用者建立密碼來防止 COMODO Internet Security 的設定遭到修改，那如果使用者忘記當初設定的密碼該怎麼辦？這...",
+        "tags": [
+            "HOW TO",
+            "Troubleshooting",
+            "免費",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] COMODO Internet Security 8：防火牆使用與設定說明",
+        "link": "http://blog.timshan.idv.tw/2015/02/comodo-internet-security-8.html",
+        "date": "2015-02-11T16:16:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8LCl3SgKsTshjZeGlmMOAVbZoFK79LqRuT_IvHkLx-anT92g0eAXSL9438_Pk2CoeItcdrB0mTlkGwRrIA0jIi239NWx-gVtT4jgJsBbEfIt3x-DTXWp-4Eh7Imr0Vo1e4wv-jT5Ldnc/s1600/Panel.png",
+        "summary": "前篇： COMODO Internet Security 8：事前注意事項與安裝教學 在前一篇文章中，我花了一點篇幅說明因安裝COMODO Internet Security 8 而遭遇BOSD時的處理方式，並且從頭開始介紹安裝時各個步驟應...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] TrueCrypt使用教學 - 重要資訊的加密保險箱",
+        "link": "http://blog.timshan.idv.tw/2013/08/howto-truecrypt.html",
+        "date": "2015-02-10T18:20:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSKsr3rqbje-YwVjglrB8hd4yj6K8XzF0Re-Nmtvvf0i9O9Ehyphenhyphensc6Cw9rHzjndBaXFFHt7epYwnTfQNUO_Rx53zXOqtgR_hftm8epURVySwG4CHxVlgB2-c6JrmUqr7cMceEZ71kGDzToS/s1600/truecrypt.jpg",
+        "summary": "更新說明 我在2013年八月的時候寫了這篇關於TrueCrypt的使用教學，但從去年(2014)五月下旬開始， TrueCrypt的首頁 出現了\"Using TrueCrypt is not secure as it may contain...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "軟體",
+            "軟體使用教學",
+            "開源軟體"
+        ]
+    },
+    {
+        "title": "[How To] COMODO Internet Security 8：防火牆注意事項與安裝教學",
+        "link": "http://blog.timshan.idv.tw/2015/02/how-to-comodo-internet-security-8.html",
+        "date": "2015-02-04T01:19:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_zqq_EIyAnGu2nuSDBbEtZ5BWBOeTPsj1tWueAoe16QiHkvieEuSRrT_L_8r9xC0KxhZopqLcdae6MPGbpExV1cbxxQ-1bTK16JSaPAtuyEoqM1cNobusJ5nMHNZlFznzkh0uUkNMiKn/s1600/CIS8.png",
+        "summary": "次篇： COMODO Internet Security 8：使用與設定說明 緣起 過去我也曾經寫一篇關於COMODO Internet Security (COMODO出品的防火牆軟體，以下簡稱CIS)的新手入門教學，後來因為第七版與第六...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] Tor Browser Bundle：匿名網路瀏覽器",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-to-tor-browser-bundletor.html",
+        "date": "2015-01-30T10:45:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk1_OPv5yP1t8QSg4HzCBdbi9iHGbqhyhWV6JzulaG971RnhGF29nsebf-UBLD9VVUM-rg_RZd39nZtcHwoDS6Iu7LJCusQj3fYr2NmkjvdmTxGAQBYfdvH9HQskiRDc0nWBzqhJUxPZdp/s1600/tor.png",
+        "summary": "注意： 最新Tor Browser 8.0相關介紹請見 Tor Browser 8.0：重視使用者隱私的網路瀏覽器 。 現在如果提到匿名網路，最廣為人知的大概就是洋蔥路由(The Onion Router)，當初美國海軍為了建立一個不被監聽...",
+        "tags": [
+            "Firefox",
+            "Hidden Service",
+            "HOW TO",
+            "Tor",
+            "隱私"
+        ]
+    },
+    {
+        "title": "[How To] 找回Google Chrome舊版的設定檔管理系統",
+        "link": "http://blog.timshan.idv.tw/2015/01/how-to-google-chrome.html",
+        "date": "2015-01-28T15:55:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5E_x2yCFwQ-R8r_NckjKXT6dOPprEoZZ9lQAbP6tB1sOFSWqmm_OSRD8mG9zmcUgVDgc9v9PfSF-ye_kpTIe_TJLWB4D9SzzAbDV9nNClsYCgXBZ93MTuJpJu-5LbwPt-RSKtVlvPLFo/s1600/001.png",
+        "summary": "最近一次Google Chrome改版，將原本在左上方的使用者清單改成顯示在右上方，要切換使用者的時候會跳出新的視窗來讓使用者選擇， 有些人不喜歡新的設定檔管理系統這樣的做法 ，有沒有什麼辦法可以改回舊版的設定檔管理系統呢？ 更新： 增加新...",
+        "tags": [
+            "Google Chrome",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To] 關閉Adobe Flash Player 的沙盒(保護模式) 解決當機問題",
+        "link": "http://blog.timshan.idv.tw/2013/07/how-to-mozilla-firefoxflash.html",
+        "date": "2015-01-28T15:36:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAJlv6FBgD6vHrk3-4QpjGQEyiS_wpfr_1jTl-HwYyN5lOqirOEkcReqRSi25cScHcTFRAKBqHMwTw6kKifWH7Ln4zVHlkzD11Hzupp-PdMaI1JurshoMnY7YQdhXlgfzo0Eke0nrBSJP/s1600/firefox_logo-only_CMYK.png",
+        "summary": "雖然這已經是個超級無敵老問題了，但在網路上還是經常看到許多使用者為此動怒，特別是一些剛跳槽到Mozilla FireFox的使用者，但其實這是由於Adobe Flash Player最新的 沙盒機制 造成的，Google Chrome為了要...",
+        "tags": [
+            "Batch",
+            "Firefox",
+            "Flash",
+            "HOW TO",
+            "Linux",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[How To] 讓Firefox在Youtube的HTML5模式下撥放1080P的影片",
+        "link": "http://blog.timshan.idv.tw/2015/01/how-to-firefoxyoutubehtml51080p.html",
+        "date": "2015-01-28T15:10:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguKVqcISG2GspeTQLWe7H6lZ0FNC-fczGjfZLC52jaq3lio6siMcuRcLaqEcyT11qDcDupDlOX6X4q4epMNC9Voa4wVJxO9iCiQjvb72ESSNJCklROa11b0LPqS20UMKMIHXhQhM8GfBfX/s1600/720.png",
+        "summary": "昨日Youtube在其官方部落格上 宣布 ，HTML5正式取代Adobe Flash Player成為預設的影片播放器，對於像我一樣討厭Flash的人來說，這真是一個好消息。然而，火狐的使用者可能注意到，這項變更目前僅適用於Firefox ...",
+        "tags": [
+            "Firefox",
+            "Flash",
+            "HOW TO",
+            "Youtube"
+        ]
+    },
+    {
+        "title": "[分享] 台北市勞動局長公民遴選之辦法與流程",
+        "link": "http://blog.timshan.idv.tw/2014/12/blog-post.html",
+        "date": "2014-12-03T00:52:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdrSjC1bxI-1t2sLgEVfFOKqFYtSvieiT99T6ULZhjRmqI7FadO60eJdRqoJ4n8NEaz-A8nubECIaXSFbI_ydy1SQO24F5orW_V4AZFBpDM3655glO0JPnak5WM5t7URvR-PXHnaeajOQ8/s1600/cover.png",
+        "summary": "本次遴選乃柯文哲其基於開放政府此一理念的 柯P新政#1 i-Voting 之具體實踐，必須要注意的是這項局處首長遴選並非是我們習慣的公民直選，而一種提供公民意見表達與意見收集的方式，因此人事的最終任命權仍掌握在台北市長手上，而局處首長之施政...",
+        "tags": [
+            "i-Voting",
+            "公共議題",
+            "柯文哲"
+        ]
+    },
+    {
+        "title": "[分享] 台北市長候選人政見懶人包─柯文哲篇",
+        "link": "http://blog.timshan.idv.tw/2014/11/blog-post.html",
+        "date": "2014-11-28T23:01:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhELJufZhyphenhyphenK94mBJaMcszvh7BWNfPLshyphenhyphenptgx1Wt0MhtE5LYbGyOFFs_IwXNppmdjNZKqlAssGxjkUnT3fvBA17yvOrMvqzh8rgE19vDPZyJkP3EwdA_wAN7dbxrU-r5K00mDt0iuNGEhaU/s1600/cover.png",
+        "summary": "這篇文章在我心中其實已經醞釀很久了，雖然目前台北市的三位主要市長候選人都有在各自的官方網站上公布政見，但以我自己瀏覽的經驗來講，這些官網都沒辦法讓民眾很輕易地就找到其所重視的政見，在 連勝文的明日台北 還有 馮光遠的夯台北 網站上，甚至沒有...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "懶人包",
+            "政見",
+            "柯文哲"
+        ]
+    },
+    {
+        "title": "[分享] 台北市長候選人政見懶人包─馮光遠篇 ",
+        "link": "http://blog.timshan.idv.tw/2014/11/blog-post_14.html",
+        "date": "2014-11-28T14:05:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTo6lQgoTmsPO4FBMj9Sd0_FYDKoaNK6HSWNvQe_Xs1fAfVSvTxLvLZAB8DeD-EzaFximR8-3GYBJx0bxTneVorpQOlsl_xq0BIQoGCl7bXKoGtTCoQZWFkdXL5Rs_0FcfMRixoo0GlZgU/s1600/Cover.jpg",
+        "summary": "原本預計最快是這周二就該完成的馮光遠政見懶人包，但因為一些個人安排還有中途插入電視辯論逐字稿的製作，時至今日才大功告成。這份政見懶人包的資料來源，是以馮光遠的 競選官網─夯台北 上市政議題的公開資料為主，然後有編號的政見是已經拍成政見宣傳影...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "懶人包",
+            "政見",
+            "馮光遠"
+        ]
+    },
+    {
+        "title": "[分享] 台北市長候選人政見懶人包─連勝文篇",
+        "link": "http://blog.timshan.idv.tw/2014/11/blog-post_6.html",
+        "date": "2014-11-28T12:01:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWBQfhoC1R0GDSV2MhbbWuCWQcvtE8IjWXCHmj4ik-3sjyGG3GwwkMo3aiAR7r6T04idZ1oqDChLjxpZDcoK60Rw-ywECWKBnwZ-V0veeaDU9zkHZhbbyTFkPmMk273nye6xLCwtd_mDU3/s1600/cover.png",
+        "summary": "繼兩天前發布的 台北市長候選人政見懶人包─柯文哲篇 之後，連勝文篇總算是大功告成了，雖然這已經是第二份懶人包了，但是要一口氣把所有的政見都重新整理一遍，仍然不是件輕鬆的事情。雖然網路上許多人都認為連勝文都沒有提出好的政見，但在這幾天的拜讀之...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "懶人包",
+            "政見",
+            "連勝文"
+        ]
+    },
+    {
+        "title": "[分享] 公視「有話好說」節目專訪逐字稿─柯文哲篇",
+        "link": "http://blog.timshan.idv.tw/2014/11/blog-post_19.html",
+        "date": "2014-11-19T02:22:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllBXwSdQGyiufdQl0QHDTpYnEVBAgp8AEv2Tyt1s6EG9nb1IBopW1qFwOS-4RnWsAXXEwhlB8qeeFPm-aTBcsnnkC4DU4edLYFMUgAXBt0ev5eJrnCy3J_mOSVlN-aEWtvCAZ8IZmxDu0/s1600/PTS-Logo.jpg",
+        "summary": "繼之前的 有話好說馮光遠專訪逐字稿 之後，有話好說─市長您怎麼說？柯文哲專訪的逐字稿總算是整理完畢了，實在是不想再有這樣子的經驗了(苦笑)，不過之後還有一份連勝文專訪的逐字稿要進行，只是目前要選用哪一次專訪來製作逐字稿，這讓我覺得為難~\"~...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "專訪",
+            "柯文哲",
+            "逐字稿"
+        ]
+    },
+    {
+        "title": "[分享] 公視「有話好說」節目專訪逐字稿─馮光遠篇",
+        "link": "http://blog.timshan.idv.tw/2014/11/blog-post_17.html",
+        "date": "2014-11-17T16:17:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGxjKOQrvowOFUa0x5cQPcZMmH1rxW8rTZtZQRhb94kAbQXt6ECX4GpPoeWE442NZ6ixlGBqM1adlRuAt8Ci3UTrj9R4AnxJICK3ikgMr1-ecuCwhhoe1LwkyB57DYRHYSqlWweMKfSWO2/s1600/PTS-Logo.jpg",
+        "summary": "前幾天有貼過一篇 BBC中文網對台北市長三位主要候選人的專訪 ，那時候開始我就在想，是不是還有一些時間稍微長一點、品質又高一點的專訪可以跟大家分享，想來想去還是覺得由陳信聰先生主持的 公視有話好說 這個節目內容最適合，因此就著手開始製作逐字...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "專訪",
+            "逐字稿",
+            "馮光遠"
+        ]
+    },
+    {
+        "title": "[How To] 新聞小幫手 一起來加入破除問題新聞的行列吧！",
+        "link": "http://blog.timshan.idv.tw/2014/11/how-to.html",
+        "date": "2014-11-15T12:08:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj366va8CLHHDc8OmQk4slqC-9EC11Sc3fkYMsvmpEWe3rOlqqe6_CSwLkb6j6W67tLEoKmyJ17FS2WeLLy8tBSeHjAZP7BfF9-f-oiwkMipw9oi9YN1ah8OIe825hhF-jaHEPrqzavE-ow/s1600/Cover.png",
+        "summary": "這幾年台灣的新聞環境相當惡劣，經常充斥著來自中國未經查證的假新聞、內容錯誤的新聞、立場偏頗的新聞標題、甚至有報導是由不知名的記者在不知名的網站引用一位至數位不知名的網友的言論所撰寫而成。原本新聞報導的目的是為了揭露真相以及培養民眾關心公眾事...",
+        "tags": [
+            "Firefox",
+            "Google Chrome",
+            "HOW TO",
+            "公共議題",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 解決火狐開Google Maps 衛星地圖圖層分離的問題！",
+        "link": "http://blog.timshan.idv.tw/2014/11/how-to-google-maps.html",
+        "date": "2014-11-15T02:39:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqBjoSKOfjTObW8YPNs6Yepdj0r8dNcFsuWtXrKN9TotyDbuTjJT3SegkTaIzepP5OlYm8vfrSIdHpA7BbHT0JGydJUM4GUe8ZZ6HPL2Z-u6hs644KNZ9l7jfE4l7t6zOwC_pD5TJHN7n1/s1600/001.png",
+        "summary": "最近應該有不少火狐的使用者跟我遇到 相同的情況 ，那就是在衛星空拍地圖的情況下，空拍圖層和地圖圖層竟然分家了！ 這實在太令人傻眼了，根據 這個連結的解法 ，是從工具>選項>進階>一般>瀏覽>取消勾選可用時開啟硬體加速。問題是硬體加速在現在的...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "Troubleshooting"
+        ]
+    },
+    {
+        "title": "[影片] BBC中文網對台北市長主要候選人馮光遠、連勝文、柯文哲等人的專訪",
+        "link": "http://blog.timshan.idv.tw/2014/11/bbc.html",
+        "date": "2014-11-14T23:04:00.003+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "BBC中文網的記者日前到台灣對六都高支持度的市長候選人進行了 一系列的專訪 ，並對每個候選人都提出下列五個問題： 你為什麼認為自己能夠當一個好市長？ 你如何看你的對手？ 你所參選的城市應該如何國際化？ 在中國崛起、兩岸關係日益密切的情況下，...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "專訪",
+            "影片",
+            "柯文哲",
+            "連勝文",
+            "馮光遠"
+        ]
+    },
+    {
+        "title": "[分享] 2014年台北市長候選人首場電視辯論會逐字稿",
+        "link": "http://blog.timshan.idv.tw/2014/11/2014.html",
+        "date": "2014-11-12T09:07:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyqeOCt3mjSfWv2CTBA3Clbk_ZJzgoEkgFQwO6IWCWSw_Ry5VcZWWtJu3PtD3ClsdxlYemr974f7JF77m1A4dZkZGyNDaQMbYgU0eZr0r-5t_aaxFW21F8B_MoOxjmplEwfB51JrvpGsD_/s1600/Cover.png",
+        "summary": "這次之所以會整理11/7晚間的電視辯論逐字稿，完全是一時興起。一方面是因為我是在辯論會結束之後才看的，所以在看的同時也有去找其他網友製作的逐字稿，但我找到的逐字稿內容都不甚完整，與實際辯論多少都有點出路，或者只做了某些片段或某一方的逐字稿，...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "柯文哲",
+            "逐字稿",
+            "連勝文"
+        ]
+    },
+    {
+        "title": "[分享] 一場柯文哲的演講：台北的願景",
+        "link": "http://blog.timshan.idv.tw/2014/11/blog-post_11.html",
+        "date": "2014-11-11T16:29:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "這是2014年4月23日柯文哲接受淡江大學EMBA邀請，演講「台北的願景」。其實這則演講原本並不在我的計畫之中，但是經過11/7那天晚上的電視辯論之後，有些朋友對於六大願景是從何而來感到好奇，而我又發現在柯文哲的官方網站似乎也沒有特別介紹(...",
+        "tags": [
+            "公共議題",
+            "台北市長選舉",
+            "柯文哲",
+            "演講"
+        ]
+    },
+    {
+        "title": "[線上工具] PTT推文計算機",
+        "link": "http://blog.timshan.idv.tw/2014/11/ptt.html",
+        "date": "2014-11-03T02:22:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKYWDcQBvA5qyGtOdcIAAaZKU3JbKAZ0jeIQBSKfF9OhpkHj03A8wYE4VOvNDeUhVu3vNU64TSPyuFPhjJOjXyBvo6CdVH6Bfwd56XdYERiHsGLFWiQlXx27JjFvoJ427fvpMoyukUNb8Q/s1600/PTT_Calc.png",
+        "summary": "這是批踢踢Ezsoft版的板友z358z358所寫的一個線上工具，顧名思義就是用來計算批踢踢文章底下的推噓文數、標示樓層、過濾結果只顯示推噓或箭頭，除此之外還可以計算推噓文所佔的百分比，不管是對要發批幣或者要拿來告人(?)的鄉民來說都是很實...",
+        "tags": [
+            "批踢踢實業坊",
+            "線上工具"
+        ]
+    },
+    {
+        "title": "[How To] Avast Free Antivirus 2015 中文版：免費好用的防毒軟體",
+        "link": "http://blog.timshan.idv.tw/2014/10/avast-2015.html",
+        "date": "2014-10-28T09:40:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmhpOgma_DYSZjyL25jrLdI2OQjhilbXQ43r1HVqw2E5dLY4FuOBPxK8al-c5WiobQC4AX7Abix7XAT-OmTewLbWoH0fwt4WKCFPnLzvgyp0SoeIYAHs9FRVwitIfS16E1C3U-th0UBEs/s1600/avast.png",
+        "summary": "在過去，免費的防毒軟體我可能會推薦俗稱小紅傘的Avira AntiVir，不過這幾年可以選擇的免費軟體越來越多，像是Bitdefender Antivirus Free edition、AVG Free Antivirus等等，在其他免費軟...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "軟體",
+            "軟體使用教學",
+            "防毒"
+        ]
+    },
+    {
+        "title": "[How To] KeePass Password Safe:提供加密保護的帳號密碼管理員",
+        "link": "http://blog.timshan.idv.tw/2014/10/how-to-keepass-password-safe.html",
+        "date": "2014-10-22T10:54:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9blcgGmPtw05WDIg00mjqL8gChWW2SOCtOL36e7zA-m834KsTi34y7sR2NqAJiavfnViLKCsfpVJHxR0HMESAuCUZQlR3tFIMCIfPYtio9BmEuckz_PXvU2SzWvfrGueHrFlzMXhuwn-l/s1600/auch.png",
+        "summary": "現在大多數人都擁有相當多的帳號，假如這些帳號都共用相同的密碼，會造成資安上的風險。只要有其中一個帳號被盜，其他帳號也會因此不保，所以最好每個帳號都對應著不同的密碼。今天介紹的 KeePass Password Safe除了用加密的方式來儲存...",
+        "tags": [
+            "GPL",
+            "HOW TO",
+            "免費",
+            "加密",
+            "密碼管理",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[分享] 兩本介紹當年台灣對抗SARS經過的電子書：《走過SARS》與《回首SARS》",
+        "link": "http://blog.timshan.idv.tw/2014/10/blog-post.html",
+        "date": "2014-10-21T19:34:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3NYA4J71XN-k8GbA4M3b6KhMlCF3hgPilWmKRyWbJhzfDhKbKv8ZuSFpAFXtlyQ7goNpSwAGYLOBCAvGAAPlgoEh9CUdsJHiWfb7ETkjnvotWFG5zunA6ffaqLM2qwzvW8lEcviFbAVWX/s1600/mk2952565.jpg",
+        "summary": "最近伊波拉來勢洶洶，在歐美國家也傳出零星的疫情，這令許多民眾不禁想起當年SARS肆虐的往事，然而大多數的民眾都是仰賴大眾傳播媒體來獲取這些資訊，甚少有機會能夠聽聽當時防疫人員描述當時對抗SRAS疫情的經過。因此這裡我推薦兩本介紹當年台灣抗煞...",
+        "tags": [
+            "傳染病",
+            "免費",
+            "公共議題",
+            "公衛議題",
+            "分享"
+        ]
+    },
+    {
+        "title": "[How To] BitMessage：點對點傳輸的加密通訊軟體 ",
+        "link": "http://blog.timshan.idv.tw/2014/10/how-to-bitmessage.html",
+        "date": "2014-10-06T22:39:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXGA-cbsQQSXE8MLBeQas4hcqngCmmYcCQTvP9UXFVwyB5RMkcqqYhyphenhyphenjiRhK0Vysqsz7BMLk4Fwmd0rM-7mN4MRV_6FNea1kYkzyLkJjqFAYX6sFRWImyMSGNJqGh3L0jP6SI07SiCitV/s1600/001.png",
+        "summary": "Bitmessage(中文翻譯為比特信)是一款類似電子郵件的通訊軟體，目的是為了防止訊息遭到第三方監聽，本軟體有幾個特點： 由於不使用伺服器來儲存使用者資料，地址、通訊錄、群組名單等僅儲存在使用者的電腦中。 採用點對點(P2P)的方式來傳遞...",
+        "tags": [
+            "HOW TO",
+            "P2P",
+            "加密",
+            "軟體"
+        ]
+    },
+    {
+        "title": "[網摘] 海峽兩岸服務貿易協議筆記",
+        "link": "http://blog.timshan.idv.tw/2014/03/blog-post.html",
+        "date": "2014-03-28T17:40:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "2014年三月十八日之後，討論服貿協議的文章如雨後春筍湧出，不少極具價值的文章被淹沒在大量的文章之中，因此我特地將這些文章選出之後用Google雲端硬碟備份，期盼將來有一天能回顧這一段台灣史上最喧囂也最民主的時光。相關內容將會不定期更新 話...",
+        "tags": [
+            "公共議題",
+            "筆記",
+            "網摘"
+        ]
+    },
+    {
+        "title": "[Firefox] Youtube Smart Pause：讓Youtube自動暫停撥放的擴充套件",
+        "link": "http://blog.timshan.idv.tw/2014/02/firefox-youtube-smart-pauseyoutube.html",
+        "date": "2014-02-09T13:04:00.004+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD_JTaN19KdXWGZ1MbZsqCAU9t5cYTKdkS_ybif2YSgeTUIcpXeAuIqpIUIsM51beew36tMvvO7hOcG7KSFRedOOtmyrB88M5fjb0v4fg27OPkw_1Sv9XNv0Ub7EVmw9bsxtX2amrZqRse/s1600/logo.png",
+        "summary": "看Youtube影片的時喜歡一次點開許多影片，然後再分次看完的使用者，Youtube Smart Pause是個不錯的選擇，使用者不需要再一個影片一個影片的點選暫停，臨時要到其他分頁處理事情的時候也可以自動暫停影片撥放，是相當方便的擴充套件...",
+        "tags": [
+            "Facebook",
+            "Youtube",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[Firefox] Self-Destructing Cookies：讓你的火狐不留下多餘的Cookies",
+        "link": "http://blog.timshan.idv.tw/2014/01/firefox-self-destructing-cookiescookies.html",
+        "date": "2014-01-22T19:01:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioSCk5Tqgj0nCmEyW41UkUqgXPEEeBbtD7bpfQOsqKZaZXsSLAiCj1QplAFKylqCCDCmySioxMI14iHiwY_1SDmElMrJzG6sdW07E9aBPutSZ2ik_Isj_XTlqGJ3iV0mWTrZ50W1j2VzwL/s1600/logo.png",
+        "summary": "Firefox內建的Cookies保留方式有三種：每次都詢問我、關閉Firefox、Cookies過期。雖然我們可以靠 Ghostery 、 Disconnect 這類的擴充套件來防止遭到Tracker追蹤，但還是會有許多網站的Cookie...",
+        "tags": [
+            "Firefox",
+            "擴充套件",
+            "隱私安全"
+        ]
+    },
+    {
+        "title": "[Firefox] Tabs Always In Titlebar：將Firefox分頁列永遠置頂",
+        "link": "http://blog.timshan.idv.tw/2014/01/firefox-tabs-always-in-titlebarfirefox.html",
+        "date": "2014-01-14T16:27:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrWLvAqgKP_Dru-V9c3vs_nVFwtbqeY_tvuQd2Duj9F-EdCdQbtu7lX6WGtFTK8CSZgXskLqlWwBM7Nto7sgO5HZy2VTPj-19WHUyphyphenhyphenDKxioo2ladV7oJA1QplDVP45Ke5aZISYn9c34z/s1600/logo.png",
+        "summary": "Firefox引進分頁列置頂已經有好一段時間，但很可惜只在視窗最大化的時候，當視窗還原後就會恢復原本的樣貌，總覺得這點十分可惜。Tabs Always In titlebar讓Firefox無論在何時都將分頁列置頂的套件，還能讓使用者調整分...",
+        "tags": [
+            "Firefox",
+            "分頁功能",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 刪除Firefox在特定網站的Cookies",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-to-firefoxcookies.html",
+        "date": "2014-01-14T12:32:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHZ731UaWJAdSsz8imAKUjCwXlywVk1fSGMvFXTpwZaP_5jF8T97AY0NyCk2JZ9TmRb7jGr52KUOXzbEZ3wC4zEWev61uZGsjOXkwWtD1tJruHUj9VOGS7WdN_JdG1eVXsmT3UGeiGB_wm/s1600/Chocolate_Chip_Cookies_-_kimberlykv.jpg",
+        "summary": "這篇跟最近Youtube改版有點關係。以前一般使用者要刪除特定網站Cookies的機會應該不多吧？但最近只要Youtube稍微改版，很容易在使用者間聽到災情，解決問題的方式是把Youtube相關的Cookies刪除即可，接下來示範如何刪除單...",
+        "tags": [
+            "Firefox",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To] 讓Firefox複製中文網址不顯示為UTF-8編碼",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-tofirefoxutf-8.html",
+        "date": "2014-01-13T12:26:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "台灣的網址中經常可以看到中文，這樣也沒什麼不好，但是當火狐的使用者想與其他人分享所看到的那個網址時，沒使用過火狐的人看起來就像是有問題的網址，以「好羨慕！印刷公司尾牙送12輛奧迪 年後調薪5至10%」這篇為例，複製出來會如下： http:/...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "UTF-8"
+        ]
+    },
+    {
+        "title": "[How To] TamperMonkey：管理UserScript的Google Chrome擴充套件",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-to-tampermonkeyuserscriptgoogle.html",
+        "date": "2014-01-10T01:19:00.003+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORfjuakvMMlnBYv9N7AYv-hqQ_6hgsDmCfCd-9oGo6pitUVuTYdL6aMg1tf5nrebR1mrJ39q1U0a_VCSZ8-zjtZ6A5-duEV5eRY1ZQkAdm8x5VKanOS72vh-M9VYF8B_OTXALcjeRvDvh/s1600/000.png",
+        "summary": "在去年11月的時候，Erik Kay在 The Chromium Blog貼文 表示，為了保護Windows版的Google Chrome免於惡意擴充套件的侵擾，將限制Google Chrome未來只能安裝來自 Chrome Web Sto...",
+        "tags": [
+            "Google Chrome",
+            "HOW TO",
+            "User Scripts",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[Firefox] CopyAllURLs：能同時匯出網頁標題與網址的擴充套件",
+        "link": "http://blog.timshan.idv.tw/2014/01/firefox-copyallurls.html",
+        "date": "2014-01-09T15:56:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiorE2lNzRgTXc2H-wceW0Mt0Q9Ae5_2X7EGOpj0Ewh7sNCc9IbY0SB52kMJ6uhgj8WUBSu8cX82Z6p6HqPjosJIzFpfcB3ki5LdoM_28mIo9GtPgcQYnrTyUgT96r5YSDiSPra4ySqYk0J/s1600/000.png",
+        "summary": "起因是PTT Browser的版友RanChihiro問了 一個問題 ： 稍微爬過文，只有看到這一篇 #1FIIHFSO 有提問過類似問題，但似乎沒有解答 因為個人需求，所以想將目前開啟中的分頁的標題跟網址轉成文字檔或文字內容 想請問Fx或...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] Mozilla Archive Format：讓Firefox完整支援MHT與MAFF檔案格式",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-to-mozilla-archive.html",
+        "date": "2014-01-09T00:05:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhSqcxjS-PA4qofz5Sw3Ss3wIARjepr015vUq_ubxFIxErO1j3la-ySrI-gejE68uTA_K8Gv9Uli8n0Sx3IH1vECjuB0-89959a5qIc3a3KPainq3chDUi0ORnShKwijQRXUkyq1-l03dV/s1600/00.png",
+        "summary": "當網頁上有某些資訊你想要保存下來時，你會怎麼做？如果只記下網址，難保日後不會被移除；用Evernote是個不錯的方法；存成PDF？除了擴充套件之外，現在也有許多PDF印表機可以做到這點。但如果想把影像或音樂也存下來的時候，免費版的Evern...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[H7N9] 中國近日發表一則關於對H7N9抗體反應的血清學研究",
+        "link": "http://blog.timshan.idv.tw/2014/01/h7n9-h7n9.html",
+        "date": "2014-01-07T00:59:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "ProMED在2014/01/02時發布了一則消息： Serum study finds weak antibody response to H7N9 此消息是出自中國大陸研究團隊對2013年H7N9患者的血液樣本所進行的一篇研究，其內容指...",
+        "tags": [
+            "H7N9",
+            "傳染病"
+        ]
+    },
+    {
+        "title": "[How To] 如何讓Firefox介面不隨解析度縮放？",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-to-firefox.html",
+        "date": "2014-01-06T12:41:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyXhfM_UfojM6ylN0MLOUwRQmafOOIsQ4kXbb0ihcqoDYmTRs5mA0C3TzvFDnjONYZPgzb-gK28qOB_hEEoaLeCKDMk5ka5traXPMAkj8aLriwJN_VAAjhhG5h8E0sqbU1zNxMjElw_ZW1/s1600/001.png",
+        "summary": "Firefox 22的時候做了一項 變更 ： Windows: 在高解析度顯示裝置上，Firefox 會隨系統縮放設定顯示較大的文字。 但有些使用者並不習慣這樣的改變，如果要改回原本的預設值，請在網址瀏覽列輸入： About:config ...",
+        "tags": [
+            "Firefox",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To]  Ghostery：幫助Firefox使用者擺脫無所不在的網路監控",
+        "link": "http://blog.timshan.idv.tw/2014/01/how-to-ghosteryfirefox.html",
+        "date": "2014-01-03T16:33:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8G41ewp_ItPne77Rmdhfg5m2JojVaAWYSk1EhlySrqlYzQHgC2oI-Tzdr-PrDES2xtCCmouYQ4ZBDUIIIgGZ9-W2PUEyAH12-czbQJeUkJuj-Lr9jsFLLOY6NXxVoz89eP3HLr_L35aey/s1600/ghostery.png",
+        "summary": "網路廣告一直是各式網站的主要獲利來源，因此如何有效地放置廣告就成了很重要的課題為此廣告商就必須要有效地蒐集使用者的資料，怎樣的廣告容易被點擊？在什麼位置的廣告容易被注意？不同瀏覽器的使用者習慣是否會影響廣告曝光率？這其中的翹楚莫過於Goog...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "隱私安全"
+        ]
+    },
+    {
+        "title": "[Firefox] Unloadtab：強化\"在選擇前不要載入分頁\"功能的擴充套件",
+        "link": "http://blog.timshan.idv.tw/2013/12/firefox-unloadtab.html",
+        "date": "2013-12-31T23:20:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Wfkc9z4OmW1_w4eiJoSkYoD18AotP7av_k9LHUMGokSzL4VS6SLf4NmBVANluDatt1Lnu3D1vCUQt6l0CsjOCjXWSE6NYRMfMKoC2l_2pndJ7zednFbQXpjMxOrOAinlQANUwagaupl/s1600/000.png",
+        "summary": "Mozilla Firefox的使用者對\"在選擇前不要載入分頁\"這功能應該不陌生，這功能是為了啟動而設計的，譬如使用者將火狐設定為開啟回復先前瀏覽狀態的話，啟動時要載入的分頁一多，會連帶影響到火狐的開啟速度。因此若使用\"在選擇前不要載入分頁...",
+        "tags": [
+            "Firefox",
+            "分頁功能",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[Firefox] SuperTab：將Ctrl+Tab實用化的擴充套件",
+        "link": "http://blog.timshan.idv.tw/2013/12/firefox-ctrltabsupertab.html",
+        "date": "2013-12-31T16:30:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJrsc4Wsm81HZC2hCZw7hfx7TOXdjn-aDy3t1FmJOFpJbFGZuMcpxzUstiL2YONTM7d-57s_q9otVS-1XASS8AFXNAxmg6Q1vLu1SxsRJMxfdgMYNANJjhDfWoofmYk0KEkB8pW0zbRDX/s1600/002.png",
+        "summary": "大家應該都知道Windows內建一組用來切換視窗的快捷鍵Alt+Tab吧？其實Firefox也有Ctrl+Tab這組快捷鍵用來切換分頁。Ctrl+Tab最多一次只能顯示六個分頁，可是被火狐寵壞了的使用者總是習慣把分頁開到十個以上，更別提那些...",
+        "tags": [
+            "Firefox",
+            "分頁功能",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[Firefox] 在Firefox 26也能正常使用的下載管理類擴充套件",
+        "link": "http://blog.timshan.idv.tw/2013/12/firefox-firefox-26.html",
+        "date": "2013-12-31T00:17:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzeajdJNCX2Vt8f5awUK8FsN_UTbtc1LtW8CqQZzn1mIe3e-xEoc9_u71o-eCIsfH9ya_NwDSiZR_Neu-D3SLLfu0gMfYxnV9DsKcjgRk1FvOpG_pi3sPI9vFC-1MtmakTmyT1FSULecEQ/s1600/100.png",
+        "summary": "Firefox 26開始將nslDownloadmanger全面以以Downloads.jsm代替，但是新的下載管理員並不能將完成下載的檔案刪除，這點讓使用者仍舊偏好舊式的下載管理員。在這次更新之後，下載管理類的擴充套件相容性多半發生問題，...",
+        "tags": [
+            "Firefox",
+            "下載管理",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 火狐當機、錯誤、延遲的時候該如何處理？",
+        "link": "http://blog.timshan.idv.tw/2013/12/how-to.html",
+        "date": "2013-12-29T03:20:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxugT7Ze1IGJsHhzZZTs9j-N2OQ8IlVVHKi8Fkz0zITBnZJD71BCev9_IMP_YYwhUft66ioDW3c5nk_NLISkkPh1MnMo_rd2TQc57ow6mXlgj2lYV96ho_t33723hc9oXw6HV5CccMjf5N/s1600/crashreporter2.png",
+        "summary": "進入安全模式除錯 當火狐的使用發生問題時，建議先進入安全模式進行除錯，所謂的安全模式意味著停用所有的擴充套件與佈景主題，這通常是最容易使火狐發生問題的部分。因此在進行其他除錯之前，最好先進安全模式。 如何進入安全模式？ 有兩種方法可以進入安...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "Troubleshooting"
+        ]
+    },
+    {
+        "title": "[Firefox] Findbar Tweak：替火狐內建Findbar增加許多新功能",
+        "link": "http://blog.timshan.idv.tw/2013/12/firefox-findbar-tweak.html",
+        "date": "2013-12-28T20:28:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnsau2vqyHbo5U4dKQDK8tjABVqYDYKqRAGAThgncqmoSvEz3nbE6URO-otEpdyckoI5ynxQNFyhiRX6QbLX4C4G_BGpzXF_1IC62fyYfQsmt0wuyh3TjmKi9VaBnYcUMv7_T1hnczBa1/s1600/003.png",
+        "summary": "套件名稱：Findbar Tweak 套件頁面： https://addons.mozilla.org/zh-TW/firefox/addon/findbar-tweak/ Firefox內建的Findbar功能很陽春，而且在Firefox...",
+        "tags": [
+            "Firefox",
+            "搜尋工具",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 為何我的火狐無法在Youtube上留言？",
+        "link": "http://blog.timshan.idv.tw/2013/12/how-to-youtube.html",
+        "date": "2013-12-27T21:19:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRNxiYPqJzItYClwah9PffeG9xSPND57AYWDOMcUb96ynhN30cbyXm9XFWY4wLuHTyJy42ig9ulKCTAknBaWk-IdgXT1v1vKrOkLVpsgnQtD0BioSGp82qgg_cjO9mGJvW0BNJX4OZrEC/s1600/youtube1.png",
+        "summary": "在今年11月初的時候，Google終於完成他將G+與Youtube的留言系統整合，使用者可設定公開或限定朋友圈瀏覽，留言中也能標註好友，讓討論僅止於自己的小圈圈內。聽起來好像不錯，但這種作法讓使用者不得不接受第三方的Cookies，如果拒絕...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "Troubleshooting",
+            "Youtube"
+        ]
+    },
+    {
+        "title": "[How To] 原來Windows檔案總管的網址列可以執行命令！",
+        "link": "http://blog.timshan.idv.tw/2013/12/how-to-windows_27.html",
+        "date": "2013-12-27T15:06:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "使用者利用cd指令可以轉換到使用者欲操作的資料夾，但如果可以一開啟cmd就直接到達要操作的位置，豈不是更加方便？因此 在2011年底我寫了篇透過regedit修改右鍵選單的方式來達成的教學 。但最近我看了一篇網誌：《簡睿隨筆： 用檔案總管的...",
+        "tags": [
+            "HOW TO",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[How To] 火狐擴充套件之美味書籤(Del.icio.us)的生與死",
+        "link": "http://blog.timshan.idv.tw/2013/12/how-to-delicious.html",
+        "date": "2013-12-25T23:01:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmSen6UxnJZ4mZaoIxPlNKutikAE31lnjv3cD7vb7QCOUjks2YFmDYUIi-FkhuKsasWB63DPWl5dq05GxLxwHqcr1H5eiW_cZdOW3Ydf2ZN3pux7RcnFwqEcULoldzRgO_FJ1ikwC28vm/s1600/105.png",
+        "summary": "如果我現在跟人提到 美味書籤(del.icio.us) ，問我這是什麼碗粿的人恐怕不少，但在當年Web 2.0剛開始崛起的時候，美味書籤幾乎成了 社交書籤 的代名詞。美味書籤不同於傳統網路瀏覽器的書籤，他不用資料夾的方式來管理書籤，取而代之...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "Social API",
+            "擴充套件",
+            "書籤工具"
+        ]
+    },
+    {
+        "title": "[How To] 請儘速關閉Windows的桌面小工具以避免資訊安全風險",
+        "link": "http://blog.timshan.idv.tw/2013/12/how-to-windows.html",
+        "date": "2013-12-25T21:38:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwo5lObI8vJhQHgpFfBVy4Febuxyj_BJNsLpjOr21dI-VYCehWaMJadc-8DST03QnvpBN4qx7HXPW_BmAXs8MtcKg6FPir8eyMWzsJCAKP3I4ABXwkGHQLz517fo5PQQS5nHvAxfBViPeo/s1600/IC153734.jpg",
+        "summary": "老實講，這是去年七月微軟就已經公布的資訊，但是知道這訊息的人實在少之又少，為此才會寫這篇文章。 根據 Microsoft 安全性摘要報告 (2719662) ，文中指出： Microsoft 發現在 Windows 資訊看板中執行的某些合法...",
+        "tags": [
+            "HOW TO",
+            "Windows",
+            "資訊安全"
+        ]
+    },
+    {
+        "title": "[網頁素材] CSS3 Patterns Gallery",
+        "link": "http://blog.timshan.idv.tw/2013/12/css3-patterns-gallery.html",
+        "date": "2013-12-24T12:02:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCBBgrEUerl4zc4UgDs5j8LaBm8OKRRZ_Gk3fUr6CZhhQw_sE1XZBhbt9WhPqnU4bA6fdlc5mYNzwU-TGJh_dT0RSShMZAy3MJE0polymoQyrtwB0GttB8mpDNKiJA-MaJas_5o2j-NJBt/s1600/001.png",
+        "summary": "過去在設計網頁的時候，背景如果不是純色就是圖片。但隨著各家瀏覽器對CSS3支援度的提升，用CSS3來設計背景樣式也成為一種選擇。 網站名稱：CSS3 Patterns Gallery 網站連結： http://lea.verou.me/cs...",
+        "tags": [
+            "CSS3",
+            "網頁素材"
+        ]
+    },
+    {
+        "title": "[How To] 啟用Google Chrome的訪客瀏覽模式",
+        "link": "http://blog.timshan.idv.tw/2013/12/howto-google-chrome.html",
+        "date": "2013-12-23T12:12:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTH_EJmeIMbfFeiVuKtj5pqXkvCGcpsV9MlvcrvRiBQDYz-B01mLJO2DzFjJn2kasXxbuJ19lkZchxDIF_gXEoBpK48neNebC_EXSx_zrAY15WYWkKVQaBFXYhpaquf0J8CyNuIAdqCVUd/s1600/logo.png",
+        "summary": "提示： 如果不習慣新版的設定檔管理系統，想改回舊版的系統，只要 將「啟用新的設定檔管理系統」這項功能停用 即可。 如果有人要借你的電腦查個資料，但是又不希望別人窺視自己的瀏覽紀錄或修改你的瀏覽器設定，這時候你會怎麼做？如果你用的是Googl...",
+        "tags": [
+            "Google Chrome",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To] Internet Explorer 已經停止運作 - 簡易除錯教學",
+        "link": "http://blog.timshan.idv.tw/2013/07/how-to-internet-explorer.html",
+        "date": "2013-12-21T16:22:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHfsPkfmSSqHfqrSDWOenM-PIgzIqgiVLIjShTGOXavqJnEqagV-geHJA6gwRltFGJ5Wr8XlHac3wO_x65-9_bMfprF23Avwf5bsWUvI9GBxnnFrN1gAMxU6PUHPVvUHxBTiUQcNHmFrv/s1600/54520a143f6fc175188bdf326eb1c4a7.jpg",
+        "summary": "本方法適用於Windows7 Internet Explorer 已經停止運作 由於發生問題，導致程式停止正常運作，Windows 將關閉程式，有解決方案可用時將通知你。 如果IE遇到上述的錯誤時，有幾種可能： 附加元件的問題 為了解決這個...",
+        "tags": [
+            "HOW TO",
+            "IE",
+            "Internet Explorer",
+            "Troubleshooting",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[How To] 在PTT發文時如何插入符號？",
+        "link": "http://blog.timshan.idv.tw/2013/12/howto_19.html",
+        "date": "2013-12-19T19:41:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6vO_OCj4fydKg4wOZtq_1U-Ypc8i6w4q0fNZlzZ7fl6YP8fLz0uolm6_MzAjiYKEtcAHy6TzrOEw-FN1Bc49bUHsu24JyVt9mYS1O9wFKjlb1nVbtV9TfdmZbqNkTcrHtW13omcJ60dqO/s1600/000.png",
+        "summary": "雖然不知道批踢踢是從何時開始加入插入符號這個功能，但這個功能到今天我在Ctrl+Z裡面也找不到，之前是意外按出來才知道可以插入符號這樣。 使用的方法很簡單，Ctrl+P進入發文模式以後，再按一次Ctrl+P就可以叫出插入符號功能，使用鍵盤第...",
+        "tags": [
+            "HOW TO",
+            "批踢踢實業坊"
+        ]
+    },
+    {
+        "title": "[How To] PTT發文所見即得上色教學",
+        "link": "http://blog.timshan.idv.tw/2013/12/howto-ptt.html",
+        "date": "2013-12-17T21:34:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4qhfJ7vz6k3ZFdjHx9DZljttJK6gYdjbQvJtZzmdSDURzZtb-BDNwhJhDuM6FLNlFcaUtzB-J-x6i7XcbSH__U1eDjgDrLoHBuPietpDspAiGY3Z_lmr_8HZNAaXQbj1pswu1JxegEiK/s1600/000.png",
+        "summary": "以前就有不少人寫過在批踢踢實業坊( telnet://ptt.cc )發文時如何將文字上色的教學文，這些文章很詳細的從色碼結構開始解釋，但其實現在已經有更快速的方法可以讓發文者替文字上色。 首先在文章列表按Ctrl+P進入發文模式以後，再按...",
+        "tags": [
+            "HOW TO",
+            "批踢踢實業坊"
+        ]
+    },
+    {
+        "title": "[How To] 啟用/停用火狐的九宮格功能",
+        "link": "http://blog.timshan.idv.tw/2013/12/howto.html",
+        "date": "2013-12-17T17:47:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOc7zVKsmi3LjNP-0UEUrbcq2_y6KHn7haDR6Xmf9bsCUH47d5lRiu-7b7LkakhcYjtbgZXfr1GIvVItKyLLFgIvfh0kaI-KYnhRDOoC_fnEs2fJhu6OYAPEicsR8P-pIKeMWQHPp9D1g/s1600/001.png",
+        "summary": "對於新安裝火狐的使用者來說，不需要煩惱怎麼讓火狐開新分頁顯示九宮格的問題，可能反而有使用者希望可以關掉它。但是這一陣子綁架首頁的災情不斷，許多人被綁架首頁之後就不知道該怎樣把九宮格叫出來。 首先在網址列輸入About:config，輸入之後...",
+        "tags": [
+            "Firefox",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To] Moztw.org社群網站遭駭 該如何檢查是否被植入後門程式？",
+        "link": "http://blog.timshan.idv.tw/2013/12/howto-moztworg.html",
+        "date": "2013-12-17T16:58:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAJlv6FBgD6vHrk3-4QpjGQEyiS_wpfr_1jTl-HwYyN5lOqirOEkcReqRSi25cScHcTFRAKBqHMwTw6kKifWH7Ln4zVHlkzD11Hzupp-PdMaI1JurshoMnY7YQdhXlgfzo0Eke0nrBSJP/s1600/firefox_logo-only_CMYK.png",
+        "summary": "起因 批踢踢實業坊 的YuKaiLuo在2013/12/07發文： [問題] 火狐社群網站的安裝程式是被加料嗎? 文中提到，從 Moztw.org 下載的火狐安裝程式被卡巴斯基封鎖，後來發現安裝程式與 ftp://ftp.mozilla.o...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "Troubleshooting",
+            "資訊安全"
+        ]
+    },
+    {
+        "title": "[不愉快です] 12/15(日) 有點糟糕的一次國光客運經驗",
+        "link": "http://blog.timshan.idv.tw/2013/12/1215.html",
+        "date": "2013-12-16T01:33:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8ArTOKOBs3aFJ0w4XC6fb15ONOKDJeh1ZlaWZVdo2z5ZR4t8jf0QEykk7Qn8a6fzkryF_l33RVpz_9MTltVZSgDx820DDst9J9OvVGbE36sK8rHTMC0uRD9CF4J_G4WShMfNU7Wi0GHpF/s1600/IMG_1294.jpg",
+        "summary": "平常我都是搭乘國光客運來回北南兩地，只是今天遇到有點特殊的狀況，因此記錄下來。 ※上圖修改自 來自1982年的麵包屑 －Memento-Mori－ 平常我都是搭周日早上的班車，但是今天因為臨時發生一些突發狀況要處理，因此我拖到三點多才到 國...",
+        "tags": [
+            "不愉快です"
+        ]
+    },
+    {
+        "title": "[Firefox] Firefox ESR (Extended Support Release)，穩定性與安全性兼顧的官方發行版",
+        "link": "http://blog.timshan.idv.tw/2013/12/firefox-firefox-esr-extended-support.html",
+        "date": "2013-12-15T00:37:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAJlv6FBgD6vHrk3-4QpjGQEyiS_wpfr_1jTl-HwYyN5lOqirOEkcReqRSi25cScHcTFRAKBqHMwTw6kKifWH7Ln4zVHlkzD11Hzupp-PdMaI1JurshoMnY7YQdhXlgfzo0Eke0nrBSJP/s1600/firefox_logo-only_CMYK.png",
+        "summary": "Firefox自FireFox 5以來，一改過去的方針，開始加快版號的推進。從原本僅僅是個位數的版號，如今已經邁進到第26版了。然而升級有時會衍生一些問題，像是擴充套件的相容性與火狐穩定性等問題，往往會使某些使用者對升級產生遲疑。然而升級不...",
+        "tags": [
+            "Firefox"
+        ]
+    },
+    {
+        "title": "[閱讀] 一讀卡洛斯‧魯依斯‧薩豐的《天空的囚徒》",
+        "link": "http://blog.timshan.idv.tw/2013/12/blog-post.html",
+        "date": "2013-12-03T14:48:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8IS7FZ7v1vp2hWow3bZFV9_dII7R42KOfa782OrsgKvo-RZOgxD1M1GRJvc2aNEUjXkBRrN9Oraye_tf_k_j0FewRYXO6YUeSMq37M2VI0GyrjPsCCqnAtx6yzpe3EDezvzh96HAjgV3/s1600/top_01.jpg",
+        "summary": "第一次閱讀卡洛斯‧魯依斯‧薩豐的《遺忘書之墓》系列，是從當年的女友借我《風之影》這部作品開始。在那時我結識了森貝雷父子、遺忘書之墓以及碧雅翠絲。《風之影》一開始的鋪陳就像是平凡的日常故事，少年達尼從遺忘書之墓取得了一本他發誓必須要守護的書，...",
+        "tags": [
+            "小說",
+            "心得",
+            "閱讀"
+        ]
+    },
+    {
+        "title": "[How To] 找回火狐的禁止鎖右鍵功能",
+        "link": "http://blog.timshan.idv.tw/2013/11/how-to.html",
+        "date": "2013-11-19T09:31:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAJlv6FBgD6vHrk3-4QpjGQEyiS_wpfr_1jTl-HwYyN5lOqirOEkcReqRSi25cScHcTFRAKBqHMwTw6kKifWH7Ln4zVHlkzD11Hzupp-PdMaI1JurshoMnY7YQdhXlgfzo0Eke0nrBSJP/s1600/firefox_logo-only_CMYK.png",
+        "summary": "從Firefox 23版開始，由於「啟用Javascript」選項遭到移除，其下的「移動或重新調整彈出型視窗的大小」、「將視窗移至上層或下層」、「停用或取代右鍵選單」等子選項也跟著一併移除，並且還原預設值。對許多使用者而言相當不方便，這篇就...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 真糟糕！Google Chrome 當掉了",
+        "link": "http://blog.timshan.idv.tw/2013/10/how-to-google-chrome.html",
+        "date": "2013-10-19T14:59:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbs3BBcX_1GKH-VeZMKXoVWGLXB6xuUSs4ha6V1-XrX0SDTxQZIAQrSsMS2B1JX755CKYV-tKTO3zwnwZyyNwNMBb2SKoYDUO4GxeWx0zi-dMAp8l1ZDtMmlNQc_S3IIwFGlR_fE7Hg6Ph/s1600/logo.png",
+        "summary": "在開始除錯之前，使用者請先回想會導致Google Chrome當機的網頁，接下來的工作才會順利。 檢查是否因第三方模組造成當機 在網址列輸入： Chrome://conflicts 這是目前最可能造成Google Chrome當機的原因之一...",
+        "tags": [
+            "Google Chrome",
+            "HOW TO",
+            "Troubleshooting"
+        ]
+    },
+    {
+        "title": "[How To] 如何解決Adobe Reader XI 開啟後就消失的問題？",
+        "link": "http://blog.timshan.idv.tw/2013/10/how-to-adobe-reader-xi.html",
+        "date": "2013-10-07T23:17:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOz7VUQRYyHhP-BTewRuSu8I40SVr6TsAZVXq7qjexyiSvF8W7vHAS0jJqgW9NQoeEUlihELUaAme3f9EQUku5N1kTK-tao5zn3H6ynCW8YhenzsN1t-bYGRXGuhOIfD5go0AAVvpkHfp/s1600/001.png",
+        "summary": "防毒版先前有 版友提出一個關於Adobe Reader的問題 ： Adobe reader: 開啟PDF檔時 Adobe reader視窗會出來亮相一下(沒有PDF內容) 然後過幾秒 內文仍沒出現就消失了 (自動關閉) 就這樣 只能說這個問...",
+        "tags": [
+            "Adobe Reader",
+            "HOW TO",
+            "Troubleshooting",
+            "軟體"
+        ]
+    },
+    {
+        "title": "[How To] 訂閱Adblock Plus 推薦的衍生功能過濾條件",
+        "link": "http://blog.timshan.idv.tw/2013/10/how-to-adblock-plus.html",
+        "date": "2013-10-06T17:02:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUViplKBgpApndLYHalDYg1Q_LvzoQzu2_-js9bvUHcv99JbxZrf9GJHC6VSSgI9WxCf-JTG_xDcLAMpiGJwbUgbd5kxlTwGTxrNhkoOJH5PAqwnoYuE5jSEH6QggZltL57Bw72ZdP4a0S/s1600/006.png",
+        "summary": "在一開始的時候， Adblock Plus 僅僅是擋廣告軟體。但隨著過濾條件分支的增加，也開始有了衍生功能，諸如：阻擋有惡意軟體的網域、移除如Facebook的讚，G+、Tweet之類的社群網站按鈕，又或者是防止被追蹤(Tracking)之...",
+        "tags": [
+            "adblock plus",
+            "Firefox",
+            "Google Chrome",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To] 卡巴斯基出品的Live CD 掃毒工具 - Kaspersky Rescue Disk 10",
+        "link": "http://blog.timshan.idv.tw/2013/10/how-to-live-cd-kaspersky-rescue-disk-10.html",
+        "date": "2013-10-05T12:43:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiMIyBbpM8V1CYrjqjsy5OS8E_XyIZsYYo3smFKKuUns0sR7xn2a8YvI6tXte09wPSrEa_8w3nr1LHM1TkC2x-k_QfRuJot2ag_IpESQAqPqyONpagcG8tIsjFQDjjuQ-J3-4c7vU3B_LK/s1600/110.png",
+        "summary": "在坊間眾多的掃毒工具之中，就屬 Live CD 這類型的掃毒工具最受我的信賴。原因很簡單，這種方式的掃毒工具能夠免於受到干擾，也不會發生檔案正在使用而讓掃毒工具無法解毒或刪除的情況。只是如果Live CD若沒有Update病毒碼的功能，那等...",
+        "tags": [
+            "HOW TO",
+            "live CD",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學",
+            "防毒"
+        ]
+    },
+    {
+        "title": "[How To] 還不知道怎樣低調還原的鄉民看這裡",
+        "link": "http://blog.timshan.idv.tw/2013/10/how-to.html",
+        "date": "2013-10-03T12:56:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnNai09lMWzwvXmCp_mnbIS02NwgJCzdWUtOCfn6Vj-TUsNL0sZaf1XgcOe04nSdmLE2Exh9uIXw4EwiAII2HEj_zfUIDEQThmeOg4ak_dt6Bh8t5tLVPSz7zsUKCFNoI45ACVtGeb_Y7x/s1600/001.png",
+        "summary": "本文絕對沒有叫鄉民去領便當的意圖(?)。在批踢踢上的某些專版，會因為某些特別的需要，所以必須使用低調碼來傳遞訊息。有沒有效果當然是見人見智，但板規這麼寫，也只好這麼做。 當今最常見的作法是利用色碼來隱藏低調碼，因此要找到低調碼必須在文章頁面...",
+        "tags": [
+            "HOW TO",
+            "批踢踢實業坊"
+        ]
+    },
+    {
+        "title": "[How To] Enhanced Mitigation Experience Toolkit  4.1 - 降低Windows因軟體漏洞遭到入侵的風險",
+        "link": "http://blog.timshan.idv.tw/2013/10/how-to-enhanced-mitigation-experience.html",
+        "date": "2013-10-03T12:10:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwC2n_V48ahvsLLl7wvti0neezykHAuJ1cc9441jCNrCzv0GURB5LFh-hBAraZ41XWKFdOm2DAKP8-8ZPBYh8MhY8JJiLvFlgKqdoAab3SI1jbwYo-fe3Roz3W1OSef7fuYMyLtdbxDL4P/s1600/201.png",
+        "summary": "隨著電腦與網際網路的普及，資訊安全這個議題也日趨重要。大多數的使用者只能被動地更新軟體來避免安全性問題，但並非每次廠商都能在第一時間就提出安全性修正，那這種時候又該怎麼辦呢？ 使用Comodo Firewall這類搭配HIPS的防火牆軟體 ...",
+        "tags": [
+            "HOW TO",
+            "Windows",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[NEWS] 告別免費版小紅傘(Avira Antivir )的廣告視窗",
+        "link": "http://blog.timshan.idv.tw/2013/09/news-avira-antivir.html",
+        "date": "2013-09-28T09:36:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTcPP63SWopj8Y3fQ0m-sqYFo0ALDK0TIV-quxQCuEY1zysdAW1JYawqL5L0J2wnUecoKXdqrwtYsqjUjIKh-b7xNsfS4JiuJGGkmcutGyliukuEhT8Es6cLVTAebS2w9o7TWC2ER3rpac/s1600/001.png",
+        "summary": "用過小紅傘(avira Antivir)的人都知道，免費版更新跳出的廣告視窗，讓許多人對這套軟體望之卻步，不過根據官網的最新消息，廣告視窗將在2013年的10月1日正式走入歷史！ 消息來源： http://techblog.avira.co...",
+        "tags": [
+            "NEWS",
+            "資訊安全",
+            "軟體",
+            "防毒"
+        ]
+    },
+    {
+        "title": "[推廣] 我推薦的Firefox擴充套件(2014)",
+        "link": "http://blog.timshan.idv.tw/2013/09/share-timshanaddons.html",
+        "date": "2013-09-16T16:25:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAJlv6FBgD6vHrk3-4QpjGQEyiS_wpfr_1jTl-HwYyN5lOqirOEkcReqRSi25cScHcTFRAKBqHMwTw6kKifWH7Ln4zVHlkzD11Hzupp-PdMaI1JurshoMnY7YQdhXlgfzo0Eke0nrBSJP/s1600/firefox_logo-only_CMYK.png",
+        "summary": "從很早以前就有過分享自己在用的Mozilla Firefox擴充套件清單的念頭，明明有時間卻一直沒有一個衝動將這個念頭實現。現在明明正忙，但還是在焦頭爛額之際把這篇推廣文弄出來了，這實在是件很詭異的事情啊，或許背後有某些力量在驅使我做這一切...",
+        "tags": [
+            "Firefox",
+            "分享",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 關閉Windows的自動播放功能",
+        "link": "http://blog.timshan.idv.tw/2013/09/howto-windows.html",
+        "date": "2013-09-14T12:20:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi74Ho-oqvPlk6cc2l2BI3ZEsiuVRLNhjaeUIG5gZxxtwbOfD5kq7RqPYTUfwd2V2v7amiuJsJKsYF14yXKQj67uaqglFI0ppjY5CDJhafkLfyvxUvOTCOTTHE5MDdKA0KsUbsD9f9jYs7G/s1600/101.png",
+        "summary": "Windows 7推出已久，但並非所有的人都知道該從何處關閉過去導致隨身碟病毒氾濫的\"自動播放\"功能，因此我在此做一個小小的筆記給需要使用者作參考，而這裡介紹的做法適用於Windows Vista以上的作業系統。 專業版以上的解決方案 點選...",
+        "tags": [
+            "Autorun",
+            "HOW TO",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[How To] 使用Gpg4Win進行電子郵件加密提升個人隱私",
+        "link": "http://blog.timshan.idv.tw/2013/09/howto-gpg4win.html",
+        "date": "2013-09-07T12:14:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdjecT8jgublFa0WXNv56WJQOJgNbn4TqICBex9KP-3vMk8i5j_39dQLeeVunpKHSklLMLMOQQRlKL2MjSgcX4ULhQUa4cxZQ2EGi-pt2GIdKCUej7OZ2aVLKnuwe67GquiEqw-051FcKR/s1600/wWd4G.png",
+        "summary": "網路用戶的隱私問題這陣子鬧得沸沸揚揚，像是 Gmail最近在一起訴訟中被指控檢視用戶的郵件 ，而且還有 研究指出臉書、推特、以及谷歌這類的服務提供商會檢視用戶的訊息 ，並且點開只有用戶才知道的網路連結。 相較於臉書、推特這類的社交服務，用戶...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "加密",
+            "軟體",
+            "軟體使用教學",
+            "開源軟體",
+            "隱私"
+        ]
+    },
+    {
+        "title": "[分享] 下載王漢宗48套自由字型",
+        "link": "http://blog.timshan.idv.tw/2013/08/share-48.html",
+        "date": "2013-08-31T01:13:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "尋找免費字體嗎？ 請參考我寫的另一篇文章： 基於思源宋體的三套中文開放字型：源樣明體、源流明體、源雲明體。 王漢宗自由字型是由中原大學數學系王漢宗教授捐贈給軟體自由協會的中文字型，字型以GPL授權分別在2000年與2004年釋出( 出處 )...",
+        "tags": [
+            "GPL",
+            "中文字型",
+            "免費",
+            "分享",
+            "字型"
+        ]
+    },
+    {
+        "title": "[How To] BitTorrent Sync教學 - 同步你的檔案！沒有空間限制、支援資料加密傳輸。",
+        "link": "http://blog.timshan.idv.tw/2013/08/how-to-bittorrent-sync.html",
+        "date": "2013-08-27T21:18:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifSFhJuGc9doAMaunSMtRT74JerdtFj0gqcCXpITi3bwUiN-OlnJ-wQXJ7W87zCtgHCtYsnlwDhCspwdGZ_bNUcVloch_CoqNp8PZha7dV7pmfmxydblgTPQyYrrUFfkULOsyBfmkXZN40/s1600/512h-bt-sync-lockup.png",
+        "summary": "用Dropbox或Box.net這類的雲端軟體分享你的檔案固然方便，但是遇到比較大的檔案或是私密性較高的檔案時，這些軟體就顯得有所不足，特別是目前的雲端軟體都是先儲存到服務商的伺服器中，再透過雲端軟體同步，在保密上對某些使用者是有所疑慮的。...",
+        "tags": [
+            "BitTorrent",
+            "HOW TO",
+            "P2P",
+            "加密",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] Adblock Plus for Internet Explorer - 快速上手教學",
+        "link": "http://blog.timshan.idv.tw/2013/08/howto-internet-exploreradblock-plus.html",
+        "date": "2013-08-19T23:43:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUViplKBgpApndLYHalDYg1Q_LvzoQzu2_-js9bvUHcv99JbxZrf9GJHC6VSSgI9WxCf-JTG_xDcLAMpiGJwbUgbd5kxlTwGTxrNhkoOJH5PAqwnoYuE5jSEH6QggZltL57Bw72ZdP4a0S/s1600/006.png",
+        "summary": "以前看 Hichannel 體育賽事轉播的時候，都會感嘆Internet Exlorer上就是少了好用的廣告阻擋軟體，使得每次都必須要忍受長達30秒鐘的廣告，甚至錯過精采的部分。現在繼Mozilla Firefox、Google Chrom...",
+        "tags": [
+            "adblock plus",
+            "HOW TO",
+            "IE",
+            "Internet Explorer",
+            "Windows",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 利用Mozilla Firefox的關鍵字搜尋取代搜尋列",
+        "link": "http://blog.timshan.idv.tw/2013/08/howto-mozilla-firefox.html",
+        "date": "2013-08-19T20:29:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSMjJ-OGQko_TupZ_v41FMHBdtMHdAIVspiY2OK59wrBx3gIVFTv8FOlnkboDXsBm77sugqiSYxcp-w51f85GZ-_rILC1HxaWCPV5mn6MFnn5O3F8Hd2iG-AdM4NbgTQdwu8yuyvzzXFUF/s1600/001.png",
+        "summary": "很多人在使用Mozilla Firefox的時候，習慣使用右上角的搜尋列來搜尋需要的資訊，但其實Mozilla本身具有另一種搜尋方式，這種方式被稱為「自訂關鍵字搜尋」 如何使用自訂關鍵字搜尋 以Yahoo搜尋為例，因我設定書籤關鍵字為：\"Y...",
+        "tags": [
+            "Awesome bar",
+            "Firefox",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[How To] 如何徹底抹除Sandboxie沙盤中的內容？",
+        "link": "http://blog.timshan.idv.tw/2013/08/howto.html",
+        "date": "2013-08-15T21:56:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9E7vStXjEzhXEFCwMsrNDRXOzhZUJWrAgNOtQf_fs1gqJTj3EMEHM2JEZT2uQFPexqPG6oXjnKpJe6g7Z4EPtVSg9G5y257UxwUYH2_OeI4me-WVx7hbbekpo3zni0Rdcf3fpaIEPDiJp/s1600/MastheadLogo.jpg",
+        "summary": "SandBoxie ( 文章介紹 )在刪除沙盤內容時，採用的是Windows內建的指令碼：RMDIR。這種做法的優點就是快速、方便，但缺點就是可以透過第三方軟體來還原Sandboxie所存取過的資料，為此Sandboxie提供有隱私需求的使...",
+        "tags": [
+            "HOW TO",
+            "Sandbox",
+            "免費",
+            "加密",
+            "資料抹除",
+            "軟體",
+            "軟體使用教學",
+            "隱私"
+        ]
+    },
+    {
+        "title": "[UserScript] YouTube Center - 功能超強的Youtube使用者腳本",
+        "link": "http://blog.timshan.idv.tw/2013/08/userscript-youtube-center-youtube.html",
+        "date": "2013-08-15T15:42:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaFkN73Z_vEXTcbg_2lRinHZlZHvOR5BSLwlPqVJQVQ9vycnL4XOQ60oKT0V7nYcaCvlAKX-DPK48kPhc_KCm_iSrBdjiVDQUkFXJcouRSJZJQ8m86kMDRKg-4HBMdVBsycv4I3EtmWZ_E/s1600/001.png",
+        "summary": "會發現這個套件，其實是從一個無聊的小問題開始的。當初在瀏覽中央社的新聞： 高鐵卡通列車 22日超Q上路 ，由於我的Shockwave Flash外掛套件預設是關閉的，所以中央社內嵌的Youtube影片是用HTML5的方式呈現。 但是當我切回...",
+        "tags": [
+            "Firefox",
+            "Google Chrome",
+            "HOW TO",
+            "User Scripts",
+            "Youtube"
+        ]
+    },
+    {
+        "title": "[推廣] 解決Mozilla Firefox無法正確自訂字型的問題",
+        "link": "http://blog.timshan.idv.tw/2013/08/mozilla-firefox.html",
+        "date": "2013-08-02T11:21:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "緣起 T7yang在 PTT的Browser版 提出了下列問題： 簡單講就是 FX 的開發者一直把這個智障問題擺著沒有處理——當使用者 設定自訂字型（以簡體中文例）時有時候是起不了作用的，除非你把「優 先使用網站指定的字型」選項取消勾選。但...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "字型"
+        ]
+    },
+    {
+        "title": "[網摘] 2013/07/30 狂犬病疫情筆記",
+        "link": "http://blog.timshan.idv.tw/2013/07/20130730_30.html",
+        "date": "2013-07-30T21:38:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "類狂犬病錢鼠確診與鼬獾狂犬病病毒相同 農委會防檢局於今（ 30 ）日晚間接獲農委會家畜衛生試驗所通報，針對 7 月 25 日由臺東縣動物防疫所送檢一例闖入民宅碰觸到民眾之錢鼠，以直接免疫螢光抗體染色法檢驗結果為疑陽性，後經基因序列比對後於今...",
+        "tags": [
+            "NEWS",
+            "傳染病",
+            "公衛議題",
+            "網摘"
+        ]
+    },
+    {
+        "title": "[How To] 不希望刪除的檔案被還原嗎？用ERASER 6進行檔案抹除",
+        "link": "http://blog.timshan.idv.tw/2013/07/eraser-60.html",
+        "date": "2013-07-26T11:03:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY7zQrHhKB9AhZbjW8JToyCuD13C2KBwWfMlU4PSiGFFU9jhnNQwG_FLnkwITwkAMn1J-Q1crATyLQhM6QdbrzWMfHLsjYlwOSWyhAo9mb6mhEdDcZEpyss0NhskrxLz2Su_AYnAvjMNUd/s1600/Eraser.jpg",
+        "summary": "軟體功能與特色 因為某些因素，我刪除的檔案必須要在硬碟中不留痕跡，最有效的做法無非是用物理方法把整顆硬碟壓得粉碎。但我的目的並非把硬碟報廢，因此我需要尋求軟體上的解決方案。我曾經試著使用CCleaner的Wipe Free Space功能來...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "資料抹除",
+            "軟體",
+            "軟體使用教學",
+            "開源軟體"
+        ]
+    },
+    {
+        "title": "[How To] Comodo Firewall (6、7適用) 新手設定教學",
+        "link": "http://blog.timshan.idv.tw/2013/07/comodo-firewall-6x.html",
+        "date": "2013-07-25T16:41:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi94lZ8tGWWm9i91ndFFTpbfDbNzPJ5qlYDei5rSQcG560XEE_S2PtAvFh41rL7yTrgLUde4TaWpAQ7glM_LIEuoLzZ8C2czcN-Ar42a-Mlx4UvoGHAuP5NP0LZP9nY1SWTes6HydM-DFhy/s1600/026.png",
+        "summary": "注意： 本篇文章已經過時，COMODO防火牆的相關教學請參考 COMODO Internet Security 8：前言與安裝教學 以及 使用與設定說明 這兩篇文章。 「如果我只是一般的使用者，我還需要安裝防火牆嗎？」 「我電腦裡的資料不值...",
+        "tags": [
+            "HOW TO",
+            "免費",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[How To] 用工作排程器限制使用者的上網時間",
+        "link": "http://blog.timshan.idv.tw/2013/07/how.html",
+        "date": "2013-07-15T14:34:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYIPFoyq6p8lhkaFqneesEXi8ZHOX9abaphaZIjDmCqT3gnm0RRuPbYZcusvInpe67osKR442ZWwM3p1xUXB31k6SNIw1OVsqgjPH38hoHnp8LjHL8S2rf6wV3P-dqL0yAWLmTx3tjoea1/s1600/000.png",
+        "summary": "坊間雖然已經有許多方法可以限制家中電腦的上網時間，但免不了需要常駐程式來達到監控的作用，對電腦的配備比較老舊的家庭，這種作法帶來的壞處可能反而會比好處還要多。為了解決這個問題，我提供一個用Windows內建的工作排程器來達成限制上網時間的方...",
+        "tags": [
+            "HOW TO",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[SAS] XPT檔是什麼？該如何開啟、如何使用？",
+        "link": "http://blog.timshan.idv.tw/2013/07/how-to-xpt.html",
+        "date": "2013-07-13T11:39:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "對於經常使用次級資料的SAS使用者而言，對XPT檔想必並不陌生。然而為什麼公開資料的時候，為什麼盡可能要使用XPT而不是SAS Data file (e.g. .SAS7BAT)？ 因為與SAS Data File相較之下，XPT有以下優點...",
+        "tags": [
+            "HOW TO",
+            "SAS"
+        ]
+    },
+    {
+        "title": "[How To] 用Sandboxie保護Windows作業系統的安全 - 簡易使用教學",
+        "link": "http://blog.timshan.idv.tw/2013/07/how-to-sandboxie.html",
+        "date": "2013-07-09T15:41:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg784l4sOsHy0byCe_LD6bGmarzuaUOT_XMh_D8QBpbLYpRSkGKxzy2xe-C5Xu1YIlbls0RgghpYr1kXgf2YfKm7HzHDm8wN8lO9fY_aEF9vjRkpnAVjjlG-_Ns-L-gfmAOvQ5LxAZVpULy/s1600/MastheadLogo.jpg",
+        "summary": "軟體特色與功能： 要了解Sandboxie的基本概念，由官方所製作的下圖是最好理解的，當使用者使用Sandboxie開啟應用程式，則應用程式運行所需要的檔案、暫存檔，皆會儲存在Sandboxie所闢建的區域內。一但使用者關閉沙盤，除非使用者...",
+        "tags": [
+            "HOW TO",
+            "Sandbox",
+            "免費",
+            "資訊安全",
+            "軟體",
+            "軟體使用教學"
+        ]
+    },
+    {
+        "title": "[Firefox] FlashResizer 任意縮放網頁中的Flash Player大小",
+        "link": "http://blog.timshan.idv.tw/2013/07/firefox-flashresizer-flash-player.html",
+        "date": "2013-07-05T22:38:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_u6I-hjPyJeUiz9ahRe99_f-WaVpRFXmi0VtGdIW1wSdNkjhjtHaaXQlYRRItxpuS803nPHvCTlue3lEseOzJ2rTOJTZ-vorUgVPl_lqXpK1_f4-K293t_tA1Gv0WjOyIF5OQZsQnK7ya/s1600/001.png",
+        "summary": "擴充套件名稱： FlashResizer 軟體特色： 雖然縮放頁面就能夠調整Flash物件的顯示大小，但透過FlashResizer，可以讓Flash物件的縮放更加靈活。 擴充套件下載頁面： https://addons.mozilla.o...",
+        "tags": [
+            "Firefox",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[RE:] Blogger 後台文章瀏覽數與 Google Analytics 數據差別很大的原因",
+        "link": "http://blog.timshan.idv.tw/2013/07/how-to-blogger-google-analytics.html",
+        "date": "2013-07-04T12:49:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyw0htm6Yv48QURE_IXYLSnUHKtspFutgnIY0pb5PeYfD7t-S2KfIy9k-1WOTu1AjQUH10mq53-uwllGzQ5b0iu32jQz8nVY51qLMSKk8pQFX20sUGFkFSlOkv-_fog9sOtFLX3xISMPrK/s1600/001.png",
+        "summary": "這篇文章是我對 Wayne Fu 前輩的 這篇文章 所做出的回應。我想 Wayne Fu 前輩所提到的一些原因都是造成這個數據差異的原因，但我想應該是忽略了一個很重要的因素：手機上網者。我會提到這個也不是沒有原因的，因為 Blogger 的...",
+        "tags": [
+            "Blogger",
+            "Google Analytics",
+            "HOW TO",
+            "RE:"
+        ]
+    },
+    {
+        "title": "[How To] 在Blogger上使用MathJax",
+        "link": "http://blog.timshan.idv.tw/2013/07/howto-bloggermathjax.html",
+        "date": "2013-07-01T22:29:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFc_5mKlrOIiYncUQV0dZtZ5pPu-XjRy33CF7xQG5t1e7USahmuZNLTTKVVbJ5NHNkIXdRCojzU4H_tZDChe7p5mHYATXcML7JeVLXvC9IVoCy00N3r3n1JJkdq8FsUqBjtAU9cggRUYxM/s1600/001.png",
+        "summary": "這篇基本上算是紀錄我如何在Blogger成功安裝MathJax的筆記。其實從很早以前，我就有著要把自己所學到的流病與統計知識一點一滴的紀錄上來，因此曾經裝過一次，但我卻想不起來該怎麼使用他，所以只好一切從頭。不過也在這個重新摸索的過程中，發...",
+        "tags": [
+            "Blogger",
+            "Blogger Hacks",
+            "Gadget",
+            "HOW TO",
+            "Javascript",
+            "MathJax"
+        ]
+    },
+    {
+        "title": "[SAS] 如何建立虛擬變項 (Dummy variable)???",
+        "link": "http://blog.timshan.idv.tw/2013/06/howto-sas.html",
+        "date": "2013-06-30T23:54:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "進行統計分析遇到資料中含有類別變項的時候，不能像連續變項一樣直接放入迴歸模型之中。舉例來說，假設現在我們的資料中有種族這個類別變項${x}_{1}$，而其中包含白人、黑人、黃種人。在不設虛擬變項的狀況之下，分別令黑人=1，黃種人=2,白人=...",
+        "tags": [
+            "HOW TO",
+            "SAS",
+            "統計"
+        ]
+    },
+    {
+        "title": "[SAS] 利用PROC IMPORT匯入外部資料",
+        "link": "http://blog.timshan.idv.tw/2013/06/howtoimportsas.html",
+        "date": "2013-06-29T11:27:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioMuNeSh-SWy41x_wFxjvEILf6VGfPTn5h-zBv3mboTtp2mDzeu9VS8NvQLHSAc2P8bqwKEpVfJOd16hhOshH3lxc0o7IZGK7fLghd3ex-YGQlPlKOCMSZuTjlqXgIVfzTxq6jpLwil1EN/s1600/33727382SAS.jpeg",
+        "summary": "因為資料來源的不同，所以拿到的資料格式往往各式各樣，可能是Excel的xls,xlsx檔，SPSS的sav檔，STATA的dta檔，txt純文字檔，csv檔，dat原始資料檔等等。SAS雖然能使用Import Wizard匯入其他統計套裝軟...",
+        "tags": [
+            "HOW TO",
+            "IMPORT",
+            "PROC",
+            "SAS"
+        ]
+    },
+    {
+        "title": "[SAS] Enhanced Editor小技巧",
+        "link": "http://blog.timshan.idv.tw/2013/06/howto-sas-enhanced-editor.html",
+        "date": "2013-06-25T23:06:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Im7dJMgEy-z48sN1Jz2-eC_3WvP2UTPju2XVf1SzpMa4kRMEQw6f1ySYNT1c-nHMTN3OCn1oXF3wahcmmoYJfLWKhaQaAgBP71M-9m5dX9dglgE4zzR6koNj7SLpv2qNXefz6YCKAKTv/s1600/008.png",
+        "summary": "使用SAS的人應該多少都有過一樣的經驗，那就是內建的Enhanced Editor用起來感覺沒有什麼特殊的功能，但其實這個文字編輯器也有許多和市面上其他文字編輯器一樣方便的編輯功能，只是使用者需要花一點時間來學習，接下來我們會介紹一些小技巧...",
+        "tags": [
+            "Enhanced Editor",
+            "HOW TO",
+            "SAS"
+        ]
+    },
+    {
+        "title": "[How To] 用Firefox內建的字體渲染(Rendering)取代MacType",
+        "link": "http://blog.timshan.idv.tw/2013/06/howto.html",
+        "date": "2013-06-23T00:42:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKV55ktcI63ZNc4npXSgjHFo_t5pmgM38tTJZkSYaDhaQTzoxL5wgzXgTPLu9QpgByNLCiLUJ7JKzGztvShb2b9YKytlUPoQNekh8jqCqmvibBOvvGW44T9jqu_Y06O3J5QfgcoaxHgpOl/s1600/001.png",
+        "summary": "其實火狐大約從６版開始就有字體渲染的功能，但大多數的使用者仍然只使用系統的預設值，如果能夠適當的調教設定，可以大大提升使用者網頁瀏覽的體驗。下圖是經過渲染前後的螢幕截圖，字型統一使用文泉驛微米黑，上面是設定字體渲染前的效果、下面則是設定字體...",
+        "tags": [
+            "Firefox",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "[SAS] Enhanced Editor也有自動存檔功能？",
+        "link": "http://blog.timshan.idv.tw/2013/06/howto-sasenhanced-editor.html",
+        "date": "2013-06-22T15:59:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkDCN7rYwU4VA8UTJDwe1l-kBTTMHlJ9SuQj9dtSDIvyI-YPv8MQR6t-_nFGhlM85xsZuNZFUQeO-ZuFVROq3KMyYk4tOH_GyJGsjuaFhy_mT5_z82hNUjSLee5B7SbNzwyhueC77RSHQ/s1600/33727382SAS.jpeg",
+        "summary": "對於經常要使用SAS進行統計運算的使用者來說，如果資料量太大，開個資料集都可以當機，更遑論跑資料了，電腦動不動就死給你看。但是如果寫了大量的程式碼卻忘記儲存，這可是該死中的該死！難道Enhanced Editor就不能像Word一樣有自動存...",
+        "tags": [
+            "Enhanced Editor",
+            "HOW TO",
+            "SAS"
+        ]
+    },
+    {
+        "title": "[統計] 資料型態與統計方法比較",
+        "link": "http://blog.timshan.idv.tw/2013/06/blog-post.html",
+        "date": "2013-06-22T13:02:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "剛開始學習統計最重要的就是要搞清楚什麼狀況該用什麼統計方法，但是當統計學一系列的課程學下來，恐怕學生還是處於見樹不見林的狀態，這時候最好是能夠把自己所學過的課程做個整理，因此我想這個表格對於怎樣的資料型態該用什麼統計方法還有迷惘的統計新手應...",
+        "tags": [
+            "概念整理",
+            "統計"
+        ]
+    },
+    {
+        "title": "[Firefox] Disconnect：Ghostery之外的另一個選擇",
+        "link": "http://blog.timshan.idv.tw/2013/06/fx-disconnect-do-not-track.html",
+        "date": "2013-06-20T23:34:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCi6putTkC6eFk0-g0kOeT-azXXQ9G4Ufqvf0ZpSpnQrmmJmDb0xoKIfB0l2C5RaV2emDqfnYn1fHlcM3Q-4VV8R0e8A_BvWWJ_pePlNDzfvdZj_aVXTGoS1RK7Ilqoqlvzpab0W147nUH/s1600/003.png",
+        "summary": "Disconnect.me的創辦人 Brian Kennish ，原先是Goolge與Doulbe Click的工程師，後來因為開發出擴充套件Disconnect的前身Facebook Disconnect而離開Google。Brian K...",
+        "tags": [
+            "Do not Track",
+            "Firefox",
+            "擴充套件",
+            "隱私安全"
+        ]
+    },
+    {
+        "title": "[Firefox] QuickJava - 快速切換Flash, Java, Java Script, Proxy等功能",
+        "link": "http://blog.timshan.idv.tw/2013/06/fx-quickjava-flash-cookies-java-java.html",
+        "date": "2013-06-17T22:27:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYUISYK4su5otpUQFbXdL6FRmL6fj7145V0u0LYqGwKj6yeeLAEVmPkq9dKoOpg8R6aVHqqvd3E7rzx7qbtJXoWZDQ93bPy0VUFxiIK8LZJzOvBwyNS6Q7FLI53SW7MqptsMdyT7n1dJuS/s1600/QucikJava.png",
+        "summary": "擴充套件名稱 QuickJava 軟體功能： 雖然名稱叫做QuickJava，但其實能夠切換的功能眾多，包括：Java Script, JAVA, Flash, Sliverlight, Animated Image, Cookies, I...",
+        "tags": [
+            "Firefox",
+            "擴充套件"
+        ]
+    },
+    {
+        "title": "[How To] 如何追蹤遠端電腦的IP位置？",
+        "link": "http://blog.timshan.idv.tw/2013/06/howto-ip.html",
+        "date": "2013-06-16T21:20:00.002+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "有些時候因為某些特殊需求，需要得知遠端電腦的IP位置，但如果遠端電腦是浮動IP，這時候該怎麼辦？這時候有個簡單的做法可以達成。這個做法有幾個重點： 必須是你有權操作的電腦 需要使用Batch 需搭配Dropbox同步功能 詳細作法： 建立一...",
+        "tags": [
+            "Batch",
+            "Dropbox",
+            "HOW TO",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[How To]  如何將IE中的\"我的最愛\"複製成超連結???",
+        "link": "http://blog.timshan.idv.tw/2013/06/howto-ie.html",
+        "date": "2013-06-10T20:23:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1CzcYSq1GQiOqX9ZM3z6vnF8438DbduZnDotJHADhqCmC2dT4r1YsIsn_mLGqx6jZUAwEEuNsmvV1Cw5Y8AzKa5_xlHLqfSrH7CVzv9Jk8Uq9xHHRdb2fPulSWB_0zt-aoM6T5dNfimDE/s1600/001.png",
+        "summary": "Q：因為某些情況，需要整理Internet Explorer中我的最愛的網址，但一個一個點略顯麻煩，有沒有比較方便的做法可以取得超連結？ A：可以利用Firefox匯入Internet Explorer的方式來達成，以下是操作步驟。 到Mo...",
+        "tags": [
+            "Firefox",
+            "HOW TO",
+            "IE",
+            "Internet Explorer"
+        ]
+    },
+    {
+        "title": "[How To] Facebook手機簡訊認證嘗試次數過多  請稍後重試",
+        "link": "http://blog.timshan.idv.tw/2013/06/facebook.html",
+        "date": "2013-06-02T08:58:00.004+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "我因為不明的原因所以Facebook不發手機驗證碼給我，不斷出現「你最近要求寄送太多次簡訊驗證碼。請稍後再試。」，結果等了好長一段時間以後仍然如此。 後來半夜睡不著的時候不小心喵到現在可以用手機號碼登入，所以我把原本的登入信箱改輸入手機號碼...",
+        "tags": [
+            "Facebook",
+            "HOW TO"
+        ]
+    },
+    {
+        "title": "化物語MAD  VENUS&STAPLER : 1.11",
+        "link": "http://blog.timshan.idv.tw/2012/03/mad-venus-111.html",
+        "date": "2012-03-22T16:59:00.002+08:00",
+        "image": "https://img.youtube.com/vi/mDNTAMzoPA0/default.jpg",
+        "summary": "MAD這種東西果然是詐欺...XD...",
+        "tags": [
+            "MAD",
+            "動漫"
+        ]
+    },
+    {
+        "title": "[How To] 修正 Internet Explorer 中的執行階段錯誤",
+        "link": "http://blog.timshan.idv.tw/2012/03/internet-explorer.html",
+        "date": "2012-03-21T19:11:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "http://support.microsoft.com/kb/822521/zh-tw 微軟現在對使用者實在是太Friendly，雖然還是有很多不明原因的錯誤 但對於已知錯誤的修正實在是越來越簡單了！這種懶人包實在非常適合推廣XD...",
+        "tags": [
+            "HOW TO",
+            "IE",
+            "Internet Explorer",
+            "Troubleshooting",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[MV]  鬼束千尋 - infection ",
+        "link": "http://blog.timshan.idv.tw/2012/03/infection.html",
+        "date": "2012-03-12T16:30:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "「何（なん）とか上手（うま）く答（こた）えなくちゃ」 「我得好好的答覆才行」 そしてこの舌（した）に雑草（ざっそう）が増（ふ）えて行（い）く 然而只有雜草不停的在舌間增加 鼓動（こどう）を横（よこ）切（き）る影（かげ）が 擾亂我心跳的陰影 ...",
+        "tags": [
+            "MV"
+        ]
+    },
+    {
+        "title": "[MV] SCANDAL - 瞬間センチメンタル",
+        "link": "http://blog.timshan.idv.tw/2012/03/best-live-at.html",
+        "date": "2012-03-08T22:48:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "交わしたはずのない約束が 未可能許下的諾言 今日も 僕らの未來を奪おうとする 如今 依然企圖奪走我們的未來 欲しがっていたものを手にしても 即使抓住了心中渴望 素直に うまく笑えないのはなぜだろう 仍無法坦率綻放笑顏 あふれる涙は 弱さや後...",
+        "tags": [
+            "MV"
+        ]
+    },
+    {
+        "title": "[How To] 在特定資料夾中開啟cmd.exe",
+        "link": "http://blog.timshan.idv.tw/2011/12/cmd.html",
+        "date": "2011-12-24T14:59:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "注意事項 不建議使用者按照本篇的方法操作，新的做法請參考《簡睿隨筆： 用檔案總管的網址列執行命令 》 操作步驟 開始功能表→執行，輸入regedit 在HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\s...",
+        "tags": [
+            "HOW TO",
+            "Windows"
+        ]
+    },
+    {
+        "title": "[分享]沉睡森林的族詩：官方英文版",
+        "link": "http://blog.timshan.idv.tw/2010/11/blog-post.html",
+        "date": "2010-11-17T17:29:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "The Trees entangle their arms. And Stretch upward into the sky. The budding leaves devour the light. Add depth to the fo...",
+        "tags": [
+            "動漫"
+        ]
+    },
+    {
+        "title": "[心得]The Bucket List - 補記",
+        "link": "http://blog.timshan.idv.tw/2010/11/bucket-list_13.html",
+        "date": "2010-11-14T14:19:00.001+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "這篇所寫得內容是延續上篇的感覺，又讓我想到的一個問題：「到底我們生了孩子是為了誰？」在中華社會裡的傳統觀念，總是會認為養兒防老。而現在台灣的社會裡，我們經常會看到很多的家庭，他們的小孩把父母親的退休金都拿去投資或抵債，到最後不但小的沒有儲蓄...",
+        "tags": [
+            "心得",
+            "電影"
+        ]
+    },
+    {
+        "title": "[心得]The Bucket List",
+        "link": "http://blog.timshan.idv.tw/2010/11/bucket-list.html",
+        "date": "2010-11-14T01:44:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "The Bucket List，當初看得時候是2008年的年初，再看的時候已經是2010年，今年已經到了尾聲，這部片也在我心底起了陣陣的漣漪。沒錯，大二下，那是我大學四年最得意的一學期，那時候感覺自己做什麼都會成功，我那時候就是如此自負。人...",
+        "tags": [
+            "心得",
+            "電影"
+        ]
+    },
+    {
+        "title": "[展覽]梵谷展之後良久的隨筆",
+        "link": "http://blog.timshan.idv.tw/2010/03/blog-post.html",
+        "date": "2010-03-26T23:36:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image",
+        "summary": "剛剛在facebook上看到鋁罐的留言，原本只是想說簡單回覆幾句之前看梵谷展的感覺，沒想到剛開始寫就停不下自己的手，因為純粹是臨時起意，所以才會在看展之後隔那麼久才寫，果然聊展覽還是和鋁罐聊才能盡興。 剛考完研究所筆試的那週，趁著大夥仍在上...",
+        "tags": [
+            "展覽",
+            "心得"
+        ]
+    },
+    {
+        "title": "[攝影]2010,03,17 中山捷運站x九重葛",
+        "link": "http://blog.timshan.idv.tw/2010/03/20100317-x.html",
+        "date": "2010-03-26T19:53:00.000+08:00",
+        "image": "http://farm3.static.flickr.com/2729/4464671948_a514143281_t.jpg",
+        "summary": "中山捷運站，一號出口後方的街景，稍有年紀的建築搭配一大片的小葉欖仁，有新蓋好的住宅所沒有的味道 九重葛在我家這一帶蠻多人種植的，在春天時期鮮艷的色彩很容易捕捉到我的目光，我看過最漂亮的九重葛是零散卻又大片的攀爬在水泥牆上，可惜已經被屋主清調...",
+        "tags": [
+            "photographic"
+        ]
     }
 ]
