@@ -24,17 +24,34 @@ def sync():
     print(f"找到 {len(feed.entries)} 篇文章")
 
     for entry in feed.entries:
-        # 抓取摘要 (有些 RSS 是 summary, 有些是 description)
-        summary_html = entry.get('summary', entry.get('description', ''))
+        # --- 修改開始：超級摘要抓取邏輯 ---
         
-        # 清除 HTML 標籤取得純文字摘要
-        soup = BeautifulSoup(summary_html, 'html.parser')
-        text_summary = soup.get_text()[:100] + "..." # 只取前100字
+        # 1. 嘗試抓取 Atom 的 summary (通常對應 Blogger 的 '搜尋說明')
+        raw_summary = entry.get('summary', '')
+        
+        # 2. 如果沒有 summary，嘗試抓 description (RSS 格式)
+        if not raw_summary:
+            raw_summary = entry.get('description', '')
 
-        # 抓圖
-        image_url = get_image(summary_html)
+        # 3. 清理 HTML 標籤 (因為有時候 description 會包含 HTML)
+        text_summary = clean_summary(raw_summary)
+
+        # 4. 如果上面抓完還是空的 (代表你沒寫搜尋說明)，就從內文切 100 字
+        if not text_summary and 'content' in entry:
+            # entry.content[0].value 是完整的文章 HTML
+            full_content = entry.content[0].value
+            text_summary = clean_summary(full_content)[:100] + "..."
+        
+        # 確保如果還是空的，給個預設字
+        if not text_summary:
+            text_summary = "點擊閱讀全文..."
+
+        # 抓圖 (維持原樣)
+        image_url = get_image(raw_summary) # 先試試摘要裡有沒有圖
         if not image_url and 'content' in entry:
-             image_url = get_image(entry.content[0].value)
+             image_url = get_image(entry.content[0].value) # 沒有就去內文找
+
+
 
         post = {
             "title": entry.title,
