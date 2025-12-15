@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser beautifulsoup4
+          pip install beautifulsoup4
 
       - name: Run sync script
         run: python sync_blog.py
