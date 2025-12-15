@@ -2,15 +2,14 @@ import json
 import urllib.request
 import urllib.parse
 from bs4 import BeautifulSoup
-import requests # 引入這個強大的套件來爬網頁
+import requests
 import time
 import random
 
 # --- 設定區 ---
-# 為了避免跑太久，我們先限制抓最新的 20 篇 (max-results=20)
-# 如果你想要抓全部，把 max-results 改大，例如 500
-BLOG_JSON_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=500'
-AUTHOR_NAME = 'TimShan'
+# 依然維持抓最新的 20 篇，以免跑太久
+BLOG_JSON_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=20'
+AUTHOR_NAME = 'Tim Shan'
 # -------------
 
 def get_high_res_image(entry):
@@ -20,12 +19,8 @@ def get_high_res_image(entry):
     return "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image"
 
 def get_page_description(url):
-    """
-    [核心新功能]
-    直接飛去該網址，抓取 <meta name='description'> 的內容
-    """
+    """直接飛去該網址，抓取 meta description"""
     try:
-        # 偽裝成瀏覽器，以免被當成機器人擋掉
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
@@ -33,17 +28,15 @@ def get_page_description(url):
         
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
-            # 尋找 <meta name="description" content="...">
             meta_desc = soup.find('meta', attrs={'name': 'description'})
             if meta_desc and meta_desc.get('content'):
                 return meta_desc.get('content').strip()
     except Exception as e:
         print(f"爬取失敗 {url}: {e}")
-    
     return None
 
 def clean_text_fallback(html_content):
-    """備用方案：如果 meta 抓不到，只好切內文"""
+    """備用方案：切內文"""
     if not html_content: return ""
     soup = BeautifulSoup(html_content, 'html.parser')
     for script_or_style in soup(["script", "style"]):
@@ -51,14 +44,15 @@ def clean_text_fallback(html_content):
     text = soup.get_text(separator=' ')
     return " ".join(text.split())[:120] + "..."
 
-def generate_schemas(entry, image_url, summary, base_url, raw_link):
-    """SEO 結構化資料 (保持不變)"""
+def generate_schemas(entry, image_url, summary, base_url, raw_link, tags):
+    """SEO 結構化資料 (加入標籤支援)"""
     category_name = "未分類"
     category_url = base_url
-    if 'category' in entry:
-        tag_term = entry['category'][0]['term']
-        category_name = tag_term
-        category_url = f"{base_url}/search/label/{urllib.parse.quote(tag_term)}"
+    
+    # 如果有標籤，取第一個當作主要分類
+    if tags:
+        category_name = tags[0]
+        category_url = f"{base_url}/search/label/{urllib.parse.quote(category_name)}"
 
     blog_posting = {
         "@context": "https://schema.org",
@@ -69,6 +63,7 @@ def generate_schemas(entry, image_url, summary, base_url, raw_link):
         "dateModified": entry['updated']['$t'],
         "author": {"@type": "Person", "name": AUTHOR_NAME},
         "description": summary,
+        "keywords": ", ".join(tags), # 把標籤也加入 SEO 關鍵字
         "mainEntityOfPage": {"@type": "WebPage", "@id": raw_link}
     }
 
@@ -98,8 +93,6 @@ def sync():
     posts = []
     seo_map = {}
     base_url = "https://blog.timshan.idv.tw"
-
-    # 計數器
     count = 0
 
     for entry in entries:
@@ -108,43 +101,48 @@ def sync():
         link = next((l['href'] for l in entry['link'] if l['rel'] == 'alternate'), None)
         if not link: continue
 
-        print(f"[{count}/{len(entries)}] 正在爬取：{title[:20]}...")
+        print(f"[{count}/{len(entries)}] 處理中：{title[:15]}...")
 
-        # --- 這裡是最耗時的地方 ---
-        # 1. 直接去爬網頁抓 meta description
+        # --- [新增] 抓取標籤 (Labels) ---
+        tags = []
+        if 'category' in entry:
+            # entry['category'] 是一個 list，裡面每個物件有個 'term' 就是標籤名
+            tags = [c['term'] for c in entry['category']]
+        # -----------------------------
+
+        # 抓取摘要 (先爬蟲抓 meta，失敗則切內文)
         summary_text = get_page_description(link)
-
-        # 2. 如果爬不到 (網頁沒設 meta)，只好回頭用內文切
         if not summary_text:
-            print(" -> 網頁無 meta 描述，改用內文自動擷取")
             if 'content' in entry:
                 summary_text = clean_text_fallback(entry['content']['$t'])
             else:
                 summary_text = "點擊閱讀全文..."
-        # ------------------------
 
         image_url = get_high_res_image(entry)
         
-        # 組合資料
+        # 組合資料 (新增 tags 欄位)
         post = {
             "title": title,
             "link": link,
             "date": entry['published']['$t'],
             "image": image_url,
-            "summary": summary_text
+            "summary": summary_text,
+            "tags": tags  # <--- 新增這裡
         }
         posts.append(post)
 
+        # 產生 SEO 資料
         clean_link = link.replace("http://", "").replace("https://", "").split("?")[0]
-        seo_map[clean_link] = generate_schemas(entry, image_url, summary_text, base_url, link)
+        seo_map[clean_link] = generate_schemas(entry, image_url, summary_text, base_url, link, tags)
 
-        # 休息一下，避免對伺服器造成太大負擔 (0.5 ~ 1.5 秒隨機)
+        # 休息一下
         time.sleep(random.uniform(0.5, 1.5))
 
-    # 存檔
+    # 存檔 JSON
     with open('blog_data.json', 'w', encoding='utf-8') as f:
         json.dump(posts, f, ensure_ascii=False, indent=4)
     
+    # 存檔 SEO JS
     js_content = f"""
     (function() {{
         var seoData = {json.dumps(seo_map, ensure_ascii=False)};
@@ -167,7 +165,7 @@ def sync():
     with open('seo_loader.js', 'w', encoding='utf-8') as f:
         f.write(js_content)
 
-    print("完成！所有文章已重新爬取並更新。")
+    print("完成！標籤與描述皆已更新。")
 
 if __name__ == "__main__":
     sync()
