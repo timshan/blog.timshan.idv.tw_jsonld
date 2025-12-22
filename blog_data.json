@@ -1,5 +1,28 @@
 [
     {
+        "title": "[How To] VPN Gate：由日本筑波大學所營運的免費VPN服務",
+        "link": "http://blog.timshan.idv.tw/2016/01/how-to-vpn-gate.html",
+        "date": "2025-12-22T20:24:00.000+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5ASMK3DGd_fzNL_4yzAb3AS8PZx6Ug_sOGQQsdB4ehC99Ww2IF3V0m54NMQwgBUUZp9KfKRIkx-2vvC41XZMeA019qyfgBRU5WE3Htl5ZNrY9L6LGH5wZ7kxfnIYwgYPKEVQbI8JYrzP/s1600/000.png",
+        "summary": "VPN Gate 是日本筑波大學學術研究計畫，提供全球志願者運營的免費公共VPN中繼伺服器，無需註冊即可使用，支持多平台與協議（如SSL-VPN、L2TP/IPsec、OpenVPN）。",
+        "tags": [
+            "HOW TO",
+            "P2P",
+            "VPN"
+        ]
+    },
+    {
+        "title": "[health] 大腦排毒可以「算」出來？科學家計算「滯留率」發現：這姿勢讓垃圾卡住出不來",
+        "link": "http://blog.timshan.idv.tw/2025/12/health_01255820375.html",
+        "date": "2025-12-22T16:00:00.008+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC539I7CCBByiMNBvETj7ExzFRuoTIOjsemMrSQ51pPRFdLv-0kOfgQ-eOMRiWBc3jxU2liogBNlZsk9l66IZoV_q2iQC1VEDZaDUPvZttYwLFdxCHQdaBdOtTRn1542sW6zn_TCv75x5lVBlOE09KZs4Kzt7qmgj5Xfg7eZXzXkrFwxQJTz-Hk5m1XHdO/s1600/20251221info001.png",
+        "summary": "想改善腦霧嗎？關鍵在睡姿！研究證實大腦有套「膠淋巴系統」負責夜間排毒。科學家透過 MRI 動力學模型計算「滯留率」，發現側睡的廢物清除效率最高，而趴睡會導致廢物滯留量高出兩倍 。此外，平躺易引發打呼，進而阻礙腦脊髓液流動 。今晚試著向右側臥，並保持呼吸順暢，是預防大腦退化最簡單的投資。",
+        "tags": [
+            "health",
+            "失智症"
+        ]
+    },
+    {
         "title": "[health] The No-Hunger Games：當一針瘦瘦筆刺破了食品巨頭的獲利泡沫",
         "link": "http://blog.timshan.idv.tw/2025/12/health-no-hunger-games.html",
         "date": "2025-12-21T16:00:00.024+08:00",
@@ -2147,18 +2170,6 @@
             "HOW TO",
             "艦これ",
             "課金"
-        ]
-    },
-    {
-        "title": "[How To] VPN Gate：由日本筑波大學所營運的免費VPN服務",
-        "link": "http://blog.timshan.idv.tw/2016/01/how-to-vpn-gate.html",
-        "date": "2016-01-24T17:50:00.001+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5ASMK3DGd_fzNL_4yzAb3AS8PZx6Ug_sOGQQsdB4ehC99Ww2IF3V0m54NMQwgBUUZp9KfKRIkx-2vvC41XZMeA019qyfgBRU5WE3Htl5ZNrY9L6LGH5wZ7kxfnIYwgYPKEVQbI8JYrzP/s1600/000.png",
-        "summary": "一般使用者會接觸到VPN，最常見的情況就是想訪問被封鎖的網站、匿名上網、又或者想使用某些限定國家或區域的線上服務、遊戲等等。如果使用者不想付費購買VPN服務，這時候可以利用筑波大學以學術研究為目的而營運的 VPN Gate 來達成，VPN ...",
-        "tags": [
-            "HOW TO",
-            "P2P",
-            "VPN"
         ]
     },
     {
