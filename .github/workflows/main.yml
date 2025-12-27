@@ -2,9 +2,7 @@ name: Auto Sync Blog Data
 
 on:
   schedule:
-    # 每天 UTC 20:00 (台灣時間凌晨 04:00) 執行
     - cron: '0 20 * * *'
-  # 允許手動執行
   workflow_dispatch:
 
 permissions:
@@ -21,17 +19,17 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          # 使用 '3.x' 會自動抓取最新的穩定版本 (如 3.12, 3.13...)
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # 安裝需要的套件
-          pip install google-generativeai requests beautifulsoup4
+          # 加上 --upgrade 確保套件也是最新的
+          pip install --upgrade google-generativeai requests beautifulsoup4
 
       - name: Run Sync Script
         env:
-          # 將 GitHub Secret 注入環境變數
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python sync_blog.py
 
@@ -39,9 +37,5 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          
-          # 加入 JSON 檔
           git add blog_data.json
-          
-          # 檢查是否有變更，有變更才 Commit
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update blog data (Gemini)" && git push)
