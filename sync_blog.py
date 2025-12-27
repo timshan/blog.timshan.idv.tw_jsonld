@@ -16,7 +16,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
     # 注意：請確認您的 API Key 帳號權限已開通此預覽模型
-    model = genai.GenerativeModel('models/gemini-3-pro-preview')
+    model = genai.GenerativeModel('models/gemini-3-flash-preview')
 else:
     print("警告：未偵測到 GEMINI_API_KEY，將跳過 AI 生成步驟。")
     model = None
