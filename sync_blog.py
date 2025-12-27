@@ -9,19 +9,19 @@ import os
 import google.generativeai as genai
 
 # --- 設定區 ---
-# 從 GitHub Secrets 讀取 API Key
+# 從 GitHub Secrets 或環境變數讀取 API Key
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
-# 設定 Gemini 模型 (依照您的指定)
+# 設定 Gemini 模型
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    # 注意：請確認您的 API Key 帳號權限已開通此預覽模型
+    # 使用 Flash 模型以獲得較快的速度與較低的成本
     model = genai.GenerativeModel('models/gemini-3-flash-preview')
 else:
     print("警告：未偵測到 GEMINI_API_KEY，將跳過 AI 生成步驟。")
     model = None
 
-# 資料來源 (依照您的指定)
+# 資料來源設定
 FEED_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=999&orderby=updated'
 DB_FILENAME = 'blog_data.json'
 # -------------
@@ -64,7 +64,7 @@ def get_high_res_image(entry):
     return "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ObeFcmpieWz7g68vuMXYXrf7sQQpj8IhWUWdqhSmWnYJ887gL1oc6Asf5_klvI7vCB9g1v8hd_w8JjL7Hb5xd_5H8onSZFW1J-OoeSGsLqMAHUMqkL5ExR98NMhOjzbtyi3jMYAesBVXqRSfo-xPKl1c7VNgUhF-lBZuLiENOPhgnFupuckw8rOCQIjd/s1600/coverforall.png?text=No+Image"
 
 def get_page_description(url):
-    """直接飛去該網址，抓取 meta description"""
+    """直接訪問該網址，抓取 meta description"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -152,6 +152,11 @@ def sync():
         if not need_update:
             # 不需要更新，沿用舊資料
             post_data = existing_db[link]
+            
+            # --- 自動清理舊資料中的 full_text_search 欄位 ---
+            if 'full_text_search' in post_data:
+                del post_data['full_text_search']
+                
             skip_count += 1
             if index % 50 == 0:
                 print(f"跳過未變更文章... (目前進度 {index}/{len(entries)})")
@@ -172,6 +177,7 @@ def sync():
             image_url = get_high_res_image(entry)
             tags = [c['term'] for c in entry['category']] if 'category' in entry else []
 
+            # 建立資料物件 (已移除 full_text_search)
             post_data = {
                 "title": title,
                 "link": link,
@@ -180,8 +186,7 @@ def sync():
                 "image": image_url,
                 "summary": summary_text,
                 "tags": tags,
-                "ai_keywords": ai_keywords,
-                "full_text_search": clean_text[:2000] # Line Bot 搜尋用
+                "ai_keywords": ai_keywords
             }
             
             # 避免 API Rate Limit
