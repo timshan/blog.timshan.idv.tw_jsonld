@@ -1,0 +1,26 @@
+name: Daily FAQ Generator
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # 台灣時間凌晨 4 點自動跑
+  workflow_dispatch: # 允許你手動按按鈕測試
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install requests feedparser google-generativeai
+      - name: Run FAQ Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID }}
+        run: python faq.py
