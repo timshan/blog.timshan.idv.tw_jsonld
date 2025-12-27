@@ -5,13 +5,57 @@ from bs4 import BeautifulSoup
 import requests
 import time
 import random
+import os
+import google.generativeai as genai
 
 # --- 設定區 ---
-# 這裡不需要 max-results 了，因為我們會自動翻頁抓全部
-# 基礎 URL
-BASE_API_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=150'
-AUTHOR_NAME = 'Tim Shan'
+# 從 GitHub Secrets 讀取 API Key
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+
+# 設定 Gemini 模型 (依照您的指定)
+if GEMINI_API_KEY:
+    genai.configure(api_key=GEMINI_API_KEY)
+    # 注意：請確認您的 API Key 帳號權限已開通此預覽模型
+    model = genai.GenerativeModel('models/gemini-3-pro-preview')
+else:
+    print("警告：未偵測到 GEMINI_API_KEY，將跳過 AI 生成步驟。")
+    model = None
+
+# 資料來源 (依照您的指定)
+FEED_URL = 'https://blog.timshan.idv.tw/feeds/posts/default?alt=json&max-results=999&orderby=updated'
+DB_FILENAME = 'blog_data.json'
 # -------------
+
+def get_gemini_keywords(text_content):
+    """
+    呼叫 Gemini API 針對文章內容產生關鍵字
+    """
+    if not model:
+        return []
+    
+    if not text_content or len(text_content) < 50:
+        return []
+
+    try:
+        # 限制送給 AI 的字數 (取前 3000 字通常足夠判斷重點)
+        prompt = f"""
+        請閱讀以下文章內容，並萃取最核心的「10個關鍵字」。
+        規則：
+        1. 輸出格式僅需關鍵字，用逗號分隔 (例如: 關鍵字1, 關鍵字2, ...)。
+        2. 不要包含任何其他說明文字。
+        3. 關鍵字請精準，適合用於搜尋引擎或 Chatbot 檢索。
+        
+        文章內容：
+        {text_content[:3000]}
+        """
+        response = model.generate_content(prompt)
+        keywords_str = response.text.strip()
+        # 處理回傳格式，轉成 List
+        keywords = [k.strip() for k in keywords_str.split(',') if k.strip()]
+        return keywords[:10]
+    except Exception as e:
+        print(f"Gemini API 呼叫失敗: {e}")
+        return []
 
 def get_high_res_image(entry):
     """取得高畫質縮圖"""
@@ -25,176 +69,135 @@ def get_page_description(url):
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
-        # 設定 timeout 5秒，避免卡太久
-        response = requests.get(url, headers=headers, timeout=5)
-        
+        response = requests.get(url, headers=headers, timeout=10)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             meta_desc = soup.find('meta', attrs={'name': 'description'})
             if meta_desc and meta_desc.get('content'):
                 return meta_desc.get('content').strip()
     except Exception:
-        pass # 失敗就算了，安靜地回傳 None
+        pass
     return None
 
-def clean_text_fallback(html_content):
-    """備用方案：切內文"""
+def clean_text_from_html(html_content):
+    """將 HTML 轉為純文字"""
     if not html_content: return ""
     soup = BeautifulSoup(html_content, 'html.parser')
     for script_or_style in soup(["script", "style"]):
         script_or_style.decompose()
     text = soup.get_text(separator=' ')
-    return " ".join(text.split())[:120] + "..."
+    return " ".join(text.split())
 
-def generate_schemas(entry, image_url, summary, base_url, raw_link, tags):
-    """SEO 結構化資料"""
-    category_name = "未分類"
-    category_url = base_url
-    
-    if tags:
-        category_name = tags[0]
-        category_url = f"{base_url}/search/label/{urllib.parse.quote(category_name)}"
-
-    blog_posting = {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": entry['title']['$t'],
-        "image": [image_url],
-        "datePublished": entry['published']['$t'],
-        "dateModified": entry['updated']['$t'],
-        "author": {"@type": "Person", "name": AUTHOR_NAME},
-        "description": summary,
-        "keywords": ", ".join(tags),
-        "mainEntityOfPage": {"@type": "WebPage", "@id": raw_link}
-    }
-
-    breadcrumb = {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "首頁", "item": base_url },
-            { "@type": "ListItem", "position": 2, "name": category_name, "item": category_url },
-            { "@type": "ListItem", "position": 3, "name": entry['title']['$t'] }
-        ]
-    }
-    return [blog_posting, breadcrumb]
-
-def fetch_all_entries():
-    """
-    [核心新功能] 自動翻頁抓取所有文章清單
-    """
-    all_entries = []
-    next_url = BASE_API_URL
-    page_count = 1
-
-    print("開始抓取文章清單...")
-    
-    while next_url:
-        print(f"正在讀取第 {page_count} 頁清單...")
+def load_existing_data():
+    """讀取本地現有的 JSON 資料庫"""
+    if os.path.exists(DB_FILENAME):
         try:
-            with urllib.request.urlopen(next_url) as response:
-                data = json.loads(response.read().decode())
-                
-            feed = data.get('feed', {})
-            entries = feed.get('entry', [])
-            all_entries.extend(entries)
-            
-            # 檢查有沒有下一頁 (rel='next')
-            next_url = None # 先假設沒有
-            for link in feed.get('link', []):
-                if link['rel'] == 'next':
-                    next_url = link['href']
-                    page_count += 1
-                    break
+            with open(DB_FILENAME, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                # 轉成 Dict 結構，Key 是文章連結 (Link)
+                return {item['link']: item for item in data}
         except Exception as e:
-            print(f"讀取清單發生錯誤: {e}")
-            break
-            
-    print(f"清單抓取完畢！總共找到 {len(all_entries)} 篇文章。")
-    return all_entries
+            print(f"讀取舊資料失敗: {e}")
+    return {}
+
+def fetch_feed_entries():
+    """抓取 Atom Feed 資料"""
+    print(f"正在抓取 Feed: {FEED_URL} ...")
+    try:
+        with urllib.request.urlopen(FEED_URL) as response:
+            data = json.loads(response.read().decode())
+        return data.get('feed', {}).get('entry', [])
+    except Exception as e:
+        print(f"Feed 抓取失敗: {e}")
+        return []
 
 def sync():
-    # 1. 先抓取所有文章的原始資料 (這一步很快)
-    entries = fetch_all_entries()
+    existing_db = load_existing_data()
+    print(f"目前資料庫已有 {len(existing_db)} 篇文章。")
+
+    entries = fetch_feed_entries()
+    print(f"線上 Feed 共有 {len(entries)} 篇文章。")
     
-    posts = []
-    seo_map = {}
-    base_url = "https://blog.timshan.idv.tw"
-    
-    # 2. 開始逐一處理 (這一步很慢，因為要爬 meta description)
-    total = len(entries)
-    print(f"準備開始逐一爬取 {total} 篇文章的描述 (這會花一點時間)...")
+    final_posts = []
+    update_count = 0
+    skip_count = 0
+
+    print("開始比對與同步...")
 
     for index, entry in enumerate(entries):
         title = entry['title']['$t']
+        published_date = entry['published']['$t']
+        updated_date = entry['updated']['$t']
         
         # 找網址
         link = next((l['href'] for l in entry['link'] if l['rel'] == 'alternate'), None)
         if not link: continue
-
-        # 每 10 篇印一次進度，讓你知道它還在跑
-        if (index + 1) % 10 == 0:
-            print(f"進度：[{index + 1}/{total}] 處理中...")
-
-        # 抓取標籤
-        tags = []
-        if 'category' in entry:
-            tags = [c['term'] for c in entry['category']]
-
-        # 抓取摘要 (爬 meta -> 失敗切內文)
-        summary_text = get_page_description(link)
-        if not summary_text:
-            if 'content' in entry:
-                summary_text = clean_text_fallback(entry['content']['$t'])
-            else:
-                summary_text = "點擊閱讀全文..."
-
-        image_url = get_high_res_image(entry)
         
-        # 組合資料
-        post = {
-            "title": title,
-            "link": link,
-            "date": entry['published']['$t'],
-            "image": image_url,
-            "summary": summary_text,
-            "tags": tags
-        }
-        posts.append(post)
+        # --- 增量更新判斷 ---
+        need_update = False
+        
+        # 1. 新文章
+        if link not in existing_db:
+            print(f"[發現新文章] {title}")
+            need_update = True
+        # 2. 文章已更新 (比對時間戳記)
+        elif existing_db[link].get('updated_date') != updated_date:
+            print(f"[文章已更新] {title}")
+            need_update = True
+        # 3. 缺少 AI 關鍵字 (補跑資料)
+        elif 'ai_keywords' not in existing_db[link]:
+            print(f"[補充 AI 關鍵字] {title}")
+            need_update = True
 
-        clean_link = link.replace("http://", "").replace("https://", "").split("?")[0]
-        seo_map[clean_link] = generate_schemas(entry, image_url, summary_text, base_url, link, tags)
+        if not need_update:
+            # 不需要更新，沿用舊資料
+            post_data = existing_db[link]
+            skip_count += 1
+            if index % 50 == 0:
+                print(f"跳過未變更文章... (目前進度 {index}/{len(entries)})")
+        else:
+            # 執行更新
+            update_count += 1
+            
+            raw_content = entry['content']['$t'] if 'content' in entry else ""
+            clean_text = clean_text_from_html(raw_content)
+            
+            summary_text = get_page_description(link)
+            if not summary_text:
+                summary_text = clean_text[:120] + "..." if clean_text else "點擊閱讀全文..."
 
-        # 休息一下 (稍微縮短休息時間，不然幾百篇跑太久)
-        time.sleep(random.uniform(0.1, 0.5))
+            print(f"   L 呼叫 Gemini ({title[:10]}...)...")
+            ai_keywords = get_gemini_keywords(clean_text)
+            
+            image_url = get_high_res_image(entry)
+            tags = [c['term'] for c in entry['category']] if 'category' in entry else []
+
+            post_data = {
+                "title": title,
+                "link": link,
+                "published_date": published_date,
+                "updated_date": updated_date, # 儲存更新時間
+                "image": image_url,
+                "summary": summary_text,
+                "tags": tags,
+                "ai_keywords": ai_keywords,
+                "full_text_search": clean_text[:2000] # Line Bot 搜尋用
+            }
+            
+            # 避免 API Rate Limit
+            time.sleep(2) 
+
+        final_posts.append(post_data)
 
     # 存檔
-    with open('blog_data.json', 'w', encoding='utf-8') as f:
-        json.dump(posts, f, ensure_ascii=False, indent=4)
-    
-    js_content = f"""
-    (function() {{
-        var seoData = {json.dumps(seo_map, ensure_ascii=False)};
-        var currentUrl = window.location.href.replace("http://", "").replace("https://", "").split("?")[0];
-        var jsonLdList = null;
-        for (var key in seoData) {{
-            if (currentUrl.includes(key) || key.includes(currentUrl)) {{
-                jsonLdList = seoData[key];
-                break;
-            }}
-        }}
-        if (jsonLdList) {{
-            var script = document.createElement('script');
-            script.type = "application/ld+json";
-            script.text = JSON.stringify(jsonLdList);
-            document.head.appendChild(script);
-        }}
-    }})();
-    """
-    with open('seo_loader.js', 'w', encoding='utf-8') as f:
-        f.write(js_content)
+    with open(DB_FILENAME, 'w', encoding='utf-8') as f:
+        json.dump(final_posts, f, ensure_ascii=False, indent=4)
 
-    print("大功告成！所有文章 (包含舊文章) 都已更新。")
+    print("-" * 30)
+    print(f"同步完成！")
+    print(f"總文章數: {len(final_posts)}")
+    print(f"新抓取/更新: {update_count} 篇")
+    print(f"未變更/跳過: {skip_count} 篇")
 
 if __name__ == "__main__":
     sync()
