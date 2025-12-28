@@ -1,5 +1,53 @@
 [
     {
+        "title": "[How To] VPN Gate：由日本筑波大學所營運的免費VPN服務",
+        "link": "http://blog.timshan.idv.tw/2016/01/how-to-vpn-gate.html",
+        "published_date": "2025-12-22T20:24:00.002+08:00",
+        "updated_date": "2025-12-28T18:59:20.329+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5ASMK3DGd_fzNL_4yzAb3AS8PZx6Ug_sOGQQsdB4ehC99Ww2IF3V0m54NMQwgBUUZp9KfKRIkx-2vvC41XZMeA019qyfgBRU5WE3Htl5ZNrY9L6LGH5wZ7kxfnIYwgYPKEVQbI8JYrzP/s1600/000.png",
+        "summary": "VPN Gate 是日本筑波大學學術研究計畫，提供全球志願者運營的免費公共VPN中繼伺服器，無需註冊即可使用，支持多平台與協議（如SSL-VPN、L2TP/IPsec、OpenVPN）。",
+        "tags": [
+            "HOW TO",
+            "VPN"
+        ],
+        "ai_keywords": [
+            "VPN Gate",
+            "SoftEther VPN",
+            "筑波大學",
+            "中繼伺服器",
+            "翻牆",
+            "SSL-VPN",
+            "P2P Relay",
+            "免費VPN",
+            "匿名上網",
+            "L2TP/IPsec"
+        ]
+    },
+    {
+        "title": "[health] 國人膳食營養素參考攝取量第八版導讀，鉀篇：從「限鈉」轉向「鈉鉀平衡」的臨床新戰略 ",
+        "link": "http://blog.timshan.idv.tw/2025/12/health_02074694818.html",
+        "published_date": "2025-12-28T16:00:00.001+08:00",
+        "updated_date": "2025-12-28T16:00:00.127+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi31V0qwS2HqEOfjVU4aTP9PnBzOEWdsPMWmXq-ylMMK1pvP9G03IpISreqxmBzhrW4-UNGP-Be_867ei2MHqxS5r__e3M1imkai2qlzQOhyP6a9O77sWiXV1sdcYtxoaTcT6nMyYqYiotp1TqwnCSlx9kGiIu_0Eq51WCaeF97b_V-Cvo0WNfTvumjx5cB/s1600/20251228info001.png",
+        "summary": "台灣 DRIs 第八版新增鉀攝取指引，成人建議量每日 2500-2800 毫克。專家指出此為基本低標，有心血管風險者可參考 WHO 標準。建議民眾多攝取蔬果、改用含鉀鹽並避免過度水煮，以達成「鈉鉀平衡」。腎病及服藥者需諮詢醫師。",
+        "tags": [
+            "health",
+            "膳食營養素參考攝取量"
+        ],
+        "ai_keywords": [
+            "鉀",
+            "國人膳食營養素參考攝取量",
+            "鈉鉀平衡",
+            "足夠攝取量",
+            "心血管疾病",
+            "高血壓",
+            "原型食物",
+            "含鉀減鈉鹽",
+            "高血鉀症",
+            "慢性腎臟病"
+        ]
+    },
+    {
         "title": "[health] 別再為了心臟犧牲咖啡！DECAF 臨床試驗證實：適度攝取咖啡因，可能反而保護了心律不整患者 ",
         "link": "http://blog.timshan.idv.tw/2025/12/health-decaf.html",
         "published_date": "2025-12-27T16:00:00.002+08:00",
@@ -69,30 +117,6 @@
             "皮質醇",
             "慢呼吸",
             "放鬆技巧"
-        ]
-    },
-    {
-        "title": "[How To] VPN Gate：由日本筑波大學所營運的免費VPN服務",
-        "link": "http://blog.timshan.idv.tw/2016/01/how-to-vpn-gate.html",
-        "published_date": "2025-12-22T20:24:00.001+08:00",
-        "updated_date": "2025-12-27T12:22:12.961+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5ASMK3DGd_fzNL_4yzAb3AS8PZx6Ug_sOGQQsdB4ehC99Ww2IF3V0m54NMQwgBUUZp9KfKRIkx-2vvC41XZMeA019qyfgBRU5WE3Htl5ZNrY9L6LGH5wZ7kxfnIYwgYPKEVQbI8JYrzP/s1600/000.png",
-        "summary": "VPN Gate 是日本筑波大學學術研究計畫，提供全球志願者運營的免費公共VPN中繼伺服器，無需註冊即可使用，支持多平台與協議（如SSL-VPN、L2TP/IPsec、OpenVPN）。",
-        "tags": [
-            "HOW TO",
-            "VPN"
-        ],
-        "ai_keywords": [
-            "VPN Gate",
-            "SoftEther VPN",
-            "筑波大學",
-            "免費VPN",
-            "翻牆",
-            "中繼伺服器",
-            "P2P Relay",
-            "SSL-VPN",
-            "跨區連線",
-            "匿名上網"
         ]
     },
     {
@@ -3684,30 +3708,6 @@
             "疾管署",
             "接觸者追蹤",
             "隱私保護"
-        ]
-    },
-    {
-        "title": "[APP] 快把握上車機會！台灣社交距離APP抽獎活動彙整",
-        "link": "http://blog.timshan.idv.tw/2021/05/app-app_15.html",
-        "published_date": "2021-05-15T16:30:00.005+08:00",
-        "updated_date": "2021-05-16T09:30:00.281+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSotAUsuQEBAgbvvZdWmGEqXbkRb3Kud9zegVURlhYWc1eJtFsdYBVknmUINDCJUHB5YDKuc6pAmF1Hs_ES6Ge16kXoPZouEogyYANGbeVAYTjRB_gwr7gdzocsgg-Wvsuw8E4jCeaajWH/s1600/1922.jpg",
-        "summary": "在指揮中心記者會昨日宣布只要民眾願意下載台灣社交距離APP( 相關說明詳見介紹文 )並開啟通知功能，即可參加500全聯禮券抽獎活動、確診者配合防疫單位上傳隨機ID即贈5000元禮券。而台灣宅宅都很熟悉的巴哈姆特電玩資訊站，為了響應防疫指揮中...",
-        "tags": [
-            "App",
-            "Covid-19"
-        ],
-        "ai_keywords": [
-            "台灣社交距離APP",
-            "抽獎",
-            "防疫",
-            "巴哈姆特",
-            "PS5",
-            "全聯禮券",
-            "指揮中心",
-            "1922",
-            "動畫瘋",
-            "電玩遊戲"
         ]
     }
 ]
