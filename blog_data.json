@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 法國 2,800 萬人 4 年追蹤：COVID-19 mRNA 疫苗全死因死亡率與長期安全性之全國性世代研究",
+        "link": "http://blog.timshan.idv.tw/2025/12/health-2800-4-covid-19-mrna.html",
+        "published_date": "2025-12-29T22:06:00.002+08:00",
+        "updated_date": "2025-12-29T22:06:56.650+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9YCdcdKPZRmTi5hzQP6Q1GbByQ32A7OWt_G4bj9evINSrGUtjIiH9IARlbQuQdj54efXCADVOC0Q7-58YHKQ5NtiInBzZQdkwgJdvMA-u7CfVPZ0ZjGq0HrRT_hkRSz-ENii1A-NTo9sh4QgJH-eDy7DVkTKUAgJ0yU5f0QJ653DiBlAezYx2nLgEGIoy/s1600/20251229info001.png",
+        "summary": "這項法國全國性研究追蹤 2,800 萬名 18-59 歲成人長達 4 年，結果顯示接種 COVID-19 mRNA 疫苗與全死因死亡率增加無關（wHR 0.75）。即便考量健康接種者效應，針對癌症與心血管疾病的分析亦未發現長期風險增加，證實疫苗具備高度長期安全性。",
+        "tags": [
+            "health",
+            "疫苗"
+        ],
+        "ai_keywords": [
+            "COVID-19疫苗",
+            "mRNA疫苗",
+            "長期安全性",
+            "全死因死亡率",
+            "法國全國性世代研究",
+            "JAMA Network Open",
+            "健康接種者效應",
+            "目標試驗模擬",
+            "渦輪癌",
+            "延遲性猝死"
+        ]
+    },
+    {
         "title": "[How To] VPN Gate：由日本筑波大學所營運的免費VPN服務",
         "link": "http://blog.timshan.idv.tw/2016/01/how-to-vpn-gate.html",
         "published_date": "2025-12-22T20:24:00.002+08:00",
@@ -3684,30 +3708,6 @@
             "免費簡訊",
             "疾管署",
             "防疫"
-        ]
-    },
-    {
-        "title": "[APP] 快邀請身邊親友一同安裝「臺灣社交距離」App，確認生活中是否曾經接觸過確診者！",
-        "link": "http://blog.timshan.idv.tw/2021/05/app-app.html",
-        "published_date": "2021-05-02T23:50:00.019+08:00",
-        "updated_date": "2021-05-16T11:02:46.373+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq5wl3rF-AaSPkrPxxnEmCTKDRFTJ9FwyeKCEDStvBLrMll2YdD5FYySUD0tTIkgFR0U3UZsM3eAj2WoMYPJSiNPPJrXm4fgj6zralV76KpUUcQNVnH1dDy_bTu6ydzkxSrklwUr0bJK3A/s1600/Poster.png",
-        "summary": "近日因為 諾富特桃園機場飯店發生武漢肺炎（2019冠狀病毒疾病，COVID-19）群聚感染 ，台灣的民眾又開始擔心自己是否曾在日常中與確診者接觸而不自知，所幸目前 台灣人工智慧實驗室 與 衛福部疾管署 合作推出一款名為「臺灣社交距離」的防疫...",
-        "tags": [
-            "App",
-            "Covid-19"
-        ],
-        "ai_keywords": [
-            "臺灣社交距離",
-            "防疫App",
-            "COVID-19",
-            "暴露通知",
-            "藍牙技術",
-            "去中心化",
-            "去識別化",
-            "疾管署",
-            "接觸者追蹤",
-            "隱私保護"
         ]
     }
 ]
