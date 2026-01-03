@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 網傳「蘋果配地瓜傷腎」？EAU 與 KDIGO 醫學指引打臉：剛好相反！",
+        "link": "http://blog.timshan.idv.tw/2026/01/health-eau-kdigo.html",
+        "published_date": "2026-01-03T16:00:00.004+08:00",
+        "updated_date": "2026-01-03T16:00:00.130+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiewMTvlE4MuP4C5evSt5wtWzN9k2ZCYQGRJArDCkkO3EheGI-1iSP5Jx5IqW_4FDqxW4_zdIti5KtW3CYfjsiQY-fTUFWPP1RLnAeCLPhcYoJUvdmzsDkVPdCeT6zBj7-Pt4F62LfoaeGKtYDdX3w8CtQPa59X1LNkz4rJkjqNARIeLmdPFM4IOeiliqmx/s1600/20260103info001.png",
+        "summary": "網路瘋傳「飯後吃蘋果配地瓜」會導致洗腎？別被恐嚇了！本文引用 EAU 與 KDIGO 國際權威指引揭露真相：兩者富含的纖維與鉀，其實是降低腎病風險與調控血壓的關鍵。學會正確判讀 eGFR 與 ACR 數據，破解「食物相剋」迷思，還給長輩安心的餐桌。",
+        "tags": [
+            "health",
+            "網路闢謠"
+        ],
+        "ai_keywords": [
+            "腎臟健康",
+            "闢謠",
+            "假訊息",
+            "蘋果",
+            "地瓜",
+            "鉀離子",
+            "膳食纖維",
+            "慢性腎臟病",
+            "KDIGO",
+            "鈉鉀平衡"
+        ]
+    },
+    {
         "title": "[health] 國人膳食營養素參考攝取量第八版導讀，鐵篇：嬰兒補鐵不能等，中年補鐵要小心！揭開代謝症候群的隱藏風險",
         "link": "http://blog.timshan.idv.tw/2026/01/health_0778011301.html",
         "published_date": "2026-01-02T18:00:00.004+08:00",
@@ -3681,32 +3705,6 @@
             "開發者工具",
             "90天授權",
             "slmgr /rearm"
-        ]
-    },
-    {
-        "title": "[Howto]如何突破網站禁止反白的封鎖",
-        "link": "http://blog.timshan.idv.tw/2025/04/howto.html",
-        "published_date": "2025-04-19T14:31:00.000+08:00",
-        "updated_date": "2025-04-19T14:31:04.787+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibAIsTg7-Gy5K7e4nASE5MsKY7dOxhMLppv7uo4GCNnjQYLJqwGQFteZl3aCyoMhzHTepB8lIFQVtKK_Sv7PJP8JlhGFoiNQWyB0dgr5SfcE5A65YhvAHQoKPrf9DSQPnZ2OEIyLbU0JwLJWgPNJ6kzM4l9t5qTwNyrCjVlI4aswazxt67gHxyMJkEoGoh/s1600/mad.png",
-        "summary": "有些網站會透過 CSS 或 JavaScript 阻止使用者選取文字（反白），但這些限制其實可以在使用者端繞過。以下教你幾種簡單方法： ✅ 方法一：使用瀏覽器開發者工具（F12） 在欲解除反白的頁面上按 F12 或「右鍵 → 檢查」，打開開...",
-        "tags": [
-            "Firefox",
-            "Google Chrome",
-            "HOW TO",
-            "Javascript"
-        ],
-        "ai_keywords": [
-            "解除反白",
-            "網頁複製",
-            "解除右鍵限制",
-            "user-select",
-            "JavaScript",
-            "CSS",
-            "開發者工具",
-            "F12",
-            "擴充套件",
-            "繞過限制"
         ]
     }
 ]
