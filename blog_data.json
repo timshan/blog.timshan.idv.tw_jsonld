@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 天然不代表絕對安全：大規模世代研究顯示長期褪黑激素使用與心臟衰竭風險上升相關",
+        "link": "http://blog.timshan.idv.tw/2026/01/health_01372298847.html",
+        "published_date": "2026-01-04T16:00:00.001+08:00",
+        "updated_date": "2026-01-04T16:00:00.118+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvp8QTEkeZYzVEStIagGdfEOdeMhDLnQg3CdiP45I-YoBULNUdEBMNYx-7h_ZxP7Jmu-1t3XOfe6qmVpmDVD8u53qrUblebZXa8FKQtALM_nqf91X_MJcvOEccXDhfFflI38RnDjP3zb6fUIKEUJ0F58ABRrnNdXWoRW2QRcpEyw8PZuJkIkW9yVVrxL_/s1600/1000002779.png",
+        "summary": "AHA 2025 最新研究分析 13 萬名失眠患者數據，經嚴格傾向分數配對後發現，長期（>1年）使用褪黑激素與心臟衰竭發生風險增加 89%、相關住院風險增加 3 倍（HR 3.44）及全因死亡率翻倍相關。此結果挑戰了褪黑激素對心血管絕對安全的認知，臨床建議應審慎評估長期使用風險。",
+        "tags": [
+            "health",
+            "用藥安全"
+        ],
+        "ai_keywords": [
+            "褪黑激素",
+            "心臟衰竭",
+            "失眠",
+            "長期使用",
+            "心血管安全性",
+            "美國心臟學會",
+            "住院風險",
+            "全因死亡率",
+            "真實世界數據",
+            "補充品"
+        ]
+    },
+    {
         "title": "[health] 網傳「蘋果配地瓜傷腎」？EAU 與 KDIGO 醫學指引打臉：剛好相反！",
         "link": "http://blog.timshan.idv.tw/2026/01/health-eau-kdigo.html",
         "published_date": "2026-01-03T16:00:00.004+08:00",
@@ -3677,34 +3701,6 @@
             "洋蔥服務",
             "新識別身份",
             "Firefox Quantum"
-        ]
-    },
-    {
-        "title": "[How To] 微軟釋出專供開發者使用的Windows10虛擬機器(以Virtualbox為例)",
-        "link": "http://blog.timshan.idv.tw/2018/11/how-to-windows10.html",
-        "published_date": "2018-11-25T17:55:00.001+08:00",
-        "updated_date": "2025-04-19T15:13:08.843+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIUFKC7CStVcRfUaAIHoKgwG88jUTZ-T1SZjzWL0JwYqST0a2BbyheNBcGkQNHMSdTMDOQr974-n9bM3s2A9vy7UU2KVMxmA69UoeEgiNMh0EHR8tDinJBiNAQEQDOBNTd966GCK3Fo-mP/s1600/Cover.png",
-        "summary": "為了讓開發者可以針對不同版本進行網頁相容性測試，並滿足跨平台開發上的需要，微軟現在開放90天授權的Windows虛擬機器映像檔供使用者下載，虛擬機器提供橫跨Internet Explorer8到最新的Edge網路瀏覽器，並搭配相應的作業系統...",
-        "tags": [
-            "HOW TO",
-            "Virtual Machine",
-            "VirtualBox",
-            "Windows",
-            "Windows10",
-            "開發者"
-        ],
-        "ai_keywords": [
-            "微軟",
-            "Windows 虛擬機器",
-            "映像檔",
-            "網頁相容性測試",
-            "Microsoft Edge",
-            "Internet Explorer",
-            "VirtualBox",
-            "開發者工具",
-            "90天授權",
-            "slmgr /rearm"
         ]
     }
 ]
