@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 滑手機排擠了閱讀時間？研究顯示：社交媒體使用量增加與青少年詞彙及記憶測驗分數較低相關 ",
+        "link": "http://blog.timshan.idv.tw/2026/01/health_0753956329.html",
+        "published_date": "2026-01-05T16:00:00.000+08:00",
+        "updated_date": "2026-01-05T16:00:00.117+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYrnVdN-M7gtZAB9v_Ltf5BShyF2TlLUGkMO4rpBWEfxlkL95ycU_GErU9sTcJjx598efgfB2XpLGiFzIDO9_OKQivlYKHzGEK9rWG-NGE1gAuWFzMrSy_hvxY0c5Qf-FEJUagqGdVT-WPHa1FdZ7ChELgftfeLx1_jQNcyB-bnBg3M1YXGzZ_VnT3cYhk/s1600/20250104info001.png",
+        "summary": "JAMA 最新研究追蹤 6,554 名青少年發現，社交媒體使用增加與兩年後較差的口語閱讀、詞彙及記憶分數顯著相關，但未影響反應速度與注意力。結果支持「取代假說」，即滑手機排擠了深度學習時間，阻礙「晶體智力」累積。家長應留意線上活動是否犧牲了閱讀習慣 。",
+        "tags": [
+            "health",
+            "數位成癮"
+        ],
+        "ai_keywords": [
+            "青少年",
+            "社群媒體",
+            "認知功能",
+            "JAMA",
+            "晶體智力",
+            "取代假說",
+            "情節記憶",
+            "詞彙能力",
+            "ABCD研究",
+            "發展軌跡"
+        ]
+    },
+    {
         "title": "[health] 天然不代表絕對安全：大規模世代研究顯示長期褪黑激素使用與心臟衰竭風險上升相關",
         "link": "http://blog.timshan.idv.tw/2026/01/health_01372298847.html",
         "published_date": "2026-01-04T16:00:00.001+08:00",
@@ -3674,33 +3698,6 @@
             "Windows 11",
             "DNS 劫持",
             "HTTPS 協定"
-        ]
-    },
-    {
-        "title": "[How To] Tor Browser 8.0：匿名瀏覽器",
-        "link": "http://blog.timshan.idv.tw/2018/10/how-to-tor-browser-80.html",
-        "published_date": "2018-10-20T21:09:00.003+08:00",
-        "updated_date": "2025-04-19T17:57:04.798+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3CoPz1uuhWzgGOl9cCsfLWkCqxNtFg-CNihP3d-JAPsT8jk3FJFAvs85EQ2WCMuMgQW0uazK7OWeCXQwYMGyiiALyXVFIZP-WQACIw7Zs-yn9Z2zZEMMUCymRXrFVUbUIZuOZ0wLeZIpEEWztS6b7py8CWvrRJvfNcif5bDtQpINRuMyu_snuK_W2yZa/s1600/Tor%20.png",
-        "summary": "在2014年的時候，我曾寫過有關匿名瀏覽器Tor Browser的 介紹文章 ，然而Tor Browser版本號已經從撰文當時的4版，來到今年9月釋出以 Firefox Quantum 為基礎的8.0版，其中最有感的，莫過於程式執行速度與記...",
-        "tags": [
-            "Firefox",
-            "Hidden Service",
-            "HOW TO",
-            "Tor",
-            "隱私"
-        ],
-        "ai_keywords": [
-            "Tor Browser",
-            "匿名瀏覽",
-            "洋蔥路由",
-            "隱私保護",
-            "橋接器",
-            "網路審查",
-            "安全等級",
-            "洋蔥服務",
-            "新識別身份",
-            "Firefox Quantum"
         ]
     }
 ]
