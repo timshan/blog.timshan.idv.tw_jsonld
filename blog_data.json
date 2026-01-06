@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 國人膳食營養素參考攝取量第八版導讀，碘篇：不再只是大脖子病，重新認識「碘」在現代飲食中的缺乏與過量風險",
+        "link": "http://blog.timshan.idv.tw/2026/01/health_6.html",
+        "published_date": "2026-01-06T19:41:00.002+08:00",
+        "updated_date": "2026-01-06T19:41:36.301+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBnCwqagEylkGwJ2md6ZRzEWljiJ5MosDQLuU9s6xe0TKxOMdt5g_waSEgFAuoJ7-ILL4xjU0KBykP2LKfPO2p_A8M5sSlAGDzUJRBymGisASVk0ESHdFiUz90ko6dh03F0ZWT5KoCCTgUW1uV2hVXDU9NrqT6zs5sWT4qV1qHulXcIDiuA1jhtoZSZa0D/s1600/1000002806.png",
+        "summary": "導讀國人膳食營養素參考攝取量第八版碘章節，揭示 51 歲以上及育齡婦女的隱性缺碘風險。解析懷孕期需求激增機轉、硒的協同作用，與攝取過量的 U 型風險。呼籲重視食鹽加碘標示與適量海藻攝取，並避免長期大量食用昆布湯以防甲狀腺異常。",
+        "tags": [
+            "health",
+            "膳食營養素參考攝取量"
+        ],
+        "ai_keywords": [
+            "碘",
+            "隱性飢餓",
+            "甲狀腺素",
+            "國人膳食營養素參考攝取量",
+            "孕婦營養",
+            "硒",
+            "加碘鹽",
+            "尿碘濃度",
+            "甲狀腺腫",
+            "昆布"
+        ]
+    },
+    {
         "title": "[health] 滑手機排擠了閱讀時間？研究顯示：社交媒體使用量增加與青少年詞彙及記憶測驗分數較低相關 ",
         "link": "http://blog.timshan.idv.tw/2026/01/health_0753956329.html",
         "published_date": "2026-01-05T16:00:00.000+08:00",
@@ -3669,35 +3693,6 @@
             "疑難排解",
             "進階選項",
             "重新安裝"
-        ]
-    },
-    {
-        "title": "[HowTo] Windows 11 必學設定：用 TWNIC DNS 啟用 DoH，立即強化你的上網安全",
-        "link": "http://blog.timshan.idv.tw/2025/04/howto-windows-11-twnic-dns-doh.html",
-        "published_date": "2025-04-20T10:14:00.005+08:00",
-        "updated_date": "2025-04-20T21:33:19.782+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWcLmGt65R3kSVNhyphenhyphenN9JVB5Ny_1M6skQdEcQ9Qbnin4-8Po5__pXZlXvgdWfzTQ2OrvtqwDSb6rlYBD-nJX9IZaHTi3E712LkGvnXdjMYPF0WGpk0K9FAUTvNOiJnSF8GT8IjCfRAR5eHyQSw7ZoQk8I64_-MUGZX8mQrMLq8IpIsMQn0NSaqiNj-cUajM/s1600/DNS.png",
-        "summary": "為什麼我們需要 DNS-over-HTTPS（DoH）？ 在你每天使用 Google 搜尋、滑 YouTube 或查看 IG 貼文的同時，你的裝置正在背後悄悄地詢問：「這個網站的 IP 是多少？」這個詢問，就是所謂的 DNS 查詢 ，也就是...",
-        "tags": [
-            "DNS-over-HTTPS",
-            "DoH設定",
-            "HOW TO",
-            "TWNIC",
-            "Windows 11",
-            "加密",
-            "隱私"
-        ],
-        "ai_keywords": [
-            "DNS-over-HTTPS",
-            "DoH",
-            "TWNIC",
-            "101.101.101.101",
-            "DNS 加密",
-            "網路隱私",
-            "公共 DNS",
-            "Windows 11",
-            "DNS 劫持",
-            "HTTPS 協定"
         ]
     }
 ]
