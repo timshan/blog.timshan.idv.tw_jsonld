@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 最新研究揭示運動抑制早期大腸癌新機轉：急性運動血清透過上調 PNKP 促進 DNA 修復並穩定基因組 ",
+        "link": "http://blog.timshan.idv.tw/2026/01/health-pnkp-dna.html",
+        "published_date": "2026-01-07T18:00:00.001+08:00",
+        "updated_date": "2026-01-07T18:00:00.114+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBt25hC8TTiHXmjFipCsh7DAcG0JYh8hfQ1saqd9ZWxQN4WymqVBILAioxYAVHiWXFRc5MLkVSFrw2pYWoF17diNlUpl1slQEDQrA8sSRa-AnC60iigp5IPn1yHDMHeA-XBIYqW_JGWfzQEQvYUSNECZ7TV4nEoBjxXG4J32USG-111ZJlCs0hOz_I6-M/s1600/1000002810.png",
+        "summary": "2025 年最新研究證實，急性運動後血清能直接作用於早期大腸癌細胞。研究發現運動血清可上調 PNKP 基因表現（4.5 倍），使 DNA 損傷修復效率提升 16.8%，並促使癌細胞代謝從增殖轉向粒線體呼吸。此機制有助維持基因組穩定，為運動作為癌症輔助治療提供分子證據。",
+        "tags": [
+            "health",
+            "運動"
+        ],
+        "ai_keywords": [
+            "大腸癌",
+            "運動血清",
+            "DNA修復",
+            "PNKP",
+            "基因組穩定性",
+            "代謝重編程",
+            "粒線體氧化磷酸化",
+            "運動細胞因子",
+            "輔助治療",
+            "運動抗癌"
+        ]
+    },
+    {
         "title": "[health] 國人膳食營養素參考攝取量第八版導讀，碘篇：不再只是大脖子病，重新認識「碘」在現代飲食中的缺乏與過量風險",
         "link": "http://blog.timshan.idv.tw/2026/01/health_6.html",
         "published_date": "2026-01-06T19:41:00.002+08:00",
@@ -3665,34 +3689,6 @@
             "網路詐騙",
             "檢視設定",
             "公式"
-        ]
-    },
-    {
-        "title": "[How To] 如何使用 Windows 10 的「重設此電腦」功能：步驟詳解與注意事項",
-        "link": "http://blog.timshan.idv.tw/2018/01/how-to-windows-10_28.html",
-        "published_date": "2018-11-05T01:27:00.001+08:00",
-        "updated_date": "2025-04-21T21:35:07.122+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIuIX1Q0T6c_YpincHTZ2Oa_Z_ChIBEmZxcl1EGV_Gq-bkx4XPtuC9T9LVh2_Ii-0NqpFCIeNlVX-8-k_zXewAOo7vtZ4xcYIAdxyCwbs3OxtMzVvM9bw52GhIbhe2PnIHg8dY3JnLIRfN/s1600/000_1.png",
-        "summary": "2018/11/5新增： 無法登入Windows10，「重設此電腦」的操作方式。 在Windows 8開始，Microsoft在Windows的還原選項增加一個叫做「重設此電腦」的功能，跟過去依賴還原點的「系統還原」運作方式並不相同。這裡先...",
-        "tags": [
-            "HowTo",
-            "Windows 10 教學",
-            "Windows 修復工具",
-            "保留個人檔案",
-            "系統重灌",
-            "重設此電腦"
-        ],
-        "ai_keywords": [
-            "Windows 10",
-            "重設此電腦",
-            "系統還原",
-            "移除所有項目",
-            "保留我的檔案",
-            "無法登入",
-            "復原",
-            "疑難排解",
-            "進階選項",
-            "重新安裝"
         ]
     }
 ]
