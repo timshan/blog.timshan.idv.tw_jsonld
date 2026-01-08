@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] 奶油解禁？每餐限糖 10 克？2025-2030美國飲食指南 10 大重點一次看",
+        "link": "http://blog.timshan.idv.tw/2026/01/health-10-2025-2030-10.html",
+        "published_date": "2026-01-08T23:13:00.000+08:00",
+        "updated_date": "2026-01-08T23:13:30.699+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEojUs-8L0CZkPzHvvrls6H3ytnTDGIlkmZCxbeQrFbX22qbaDC7auuq0pRDgkyCr21XAYWAHQ2fVaUd7S5iUJol0gdAYD_RejTFby3lYx77jJ1M8MvMwkK2g9pDywqUhSBWV5oxDvA2ZUXDYnjwUzYCswT6PypfsXcFFXuHIJS85WRaEZCc5eqOZxmYVS/s1600/1000002842.png",
+        "summary": "2025美國飲食指南發布，宣告聯邦營養政策重大重置！新指引打破低脂迷思，強調回歸原型食物、提高蛋白質攝取至1.2-1.6g/kg，並認可低碳飲食對慢性病的助益。此外，奶油與牛油解禁（仍需適量），單餐限糖10克，並建議嬰兒早期攝取花生防過敏。這是一份更貼近生理本能的健康新標準。",
+        "tags": [
+            "health",
+            "膳食營養素參考攝取量"
+        ],
+        "ai_keywords": [
+            "2025-2030 美國人飲食指南",
+            "原型食物",
+            "高度加工食品",
+            "蛋白質",
+            "低碳飲食",
+            "添加糖",
+            "腸道健康",
+            "過敏原預防",
+            "飽和脂肪",
+            "膽鹼"
+        ]
+    },
+    {
         "title": "[health] 最新研究揭示運動抑制早期大腸癌新機轉：急性運動血清透過上調 PNKP 促進 DNA 修復並穩定基因組 ",
         "link": "http://blog.timshan.idv.tw/2026/01/health-pnkp-dna.html",
         "published_date": "2026-01-07T18:00:00.001+08:00",
@@ -3660,35 +3684,6 @@
             "個資安全",
             "Cookie",
             "隔離"
-        ]
-    },
-    {
-        "title": "[HowTo] 如何在Outlook 顯示寄件人電子郵件地址以降低社交工程的危害",
-        "link": "http://blog.timshan.idv.tw/2025/04/howto-outlook.html",
-        "published_date": "2025-04-19T19:58:00.004+08:00",
-        "updated_date": "2025-05-01T10:00:56.796+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUM56uVT69VKkfTsSTo618FFSHs_3Ej0R-8C5Drkot_mpuBmsVRuWrWxf4rDgsrk6axvRUC76PfKTHHrqTGsresBvOCVJxxhNbHSq1Xi5zrL1xKJ6xlkDKn8-YtNdOBlIPCO7T57P4wUQ_a2BQg0zc0jS0_mC6vj3xWh7MmVwZMck7U9wm5YX-Oj2BOdk9/s1600/hack.png",
-        "summary": "在當今網路詐騙日益猖獗的時代，社交工程已成為駭客攻擊中最常見且具欺騙性的手段之一。從偽裝成公司內部主管寄出的假郵件，到仿冒知名品牌客服的釣魚信，這些手法往往利用人們對「寄件人名稱」的信任，來誤導點擊惡意連結或洩露個資。 根據 iThome ...",
-        "tags": [
-            "HowTo",
-            "Outlook教學",
-            "寄件者信箱顯示",
-            "社交工程",
-            "資訊安全",
-            "郵件詐騙防範",
-            "電子郵件安全"
-        ],
-        "ai_keywords": [
-            "Outlook",
-            "社交工程",
-            "釣魚郵件",
-            "電子郵件地址",
-            "資訊安全",
-            "自訂欄位",
-            "寄件者",
-            "網路詐騙",
-            "檢視設定",
-            "公式"
         ]
     }
 ]
