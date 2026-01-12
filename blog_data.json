@@ -1,5 +1,29 @@
 [
     {
+        "title": "[health] DGA2025-2030 第四章碳水化合物導讀：從熱量平衡到代謝健康——確立低碳飲食與胰島素模型的地位。 ",
+        "link": "http://blog.timshan.idv.tw/2026/01/health-dga2025-2030_12.html",
+        "published_date": "2026-01-12T20:30:00.000+08:00",
+        "updated_date": "2026-01-12T20:30:00.809+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh66Inf_qJj3vk3U-KzYTP9qSSVzjOpQBiGGWB07La5IHFRP8sVYNlclKKYi4nOiGCAe6pVH5Hu-edxScV5WfYIm_7g9adkclZe2FQ151VntasSdtk_7lPBGDrQ3p9QCXU5u4eOt4RnG8bwr2pj2sOBSdU-I7SE06Z5FGizPKEEMK6Gfk6scg3dXDleN2NS/s1600/20260112info001.webp",
+        "summary": "025 DGA 科學報告揭示飲食典範轉移，從熱量計算轉向胰島素模型。報告警告超加工食品具成癮性，且挑戰官方 50% 碳水建議。科學證據肯認低碳飲食（<130g/天）逆轉糖尿病療效，精製糖與代糖長期食用恐惡化代謝。建議大眾避開加工陷阱，聰明選擇原型食物以找回代謝平衡。",
+        "tags": [
+            "health",
+            "膳食營養素參考攝取量"
+        ],
+        "ai_keywords": [
+            "2025 DGA",
+            "代謝健康",
+            "胰島素阻抗",
+            "低碳飲食",
+            "超加工食品",
+            "胰島素模型",
+            "精緻碳水化合物",
+            "逆轉糖尿病",
+            "食物基質",
+            "添加糖"
+        ]
+    },
+    {
         "title": "[health] DGA2025-2030 第三章超加工食品導讀：臨床實證與環境毒理的交匯",
         "link": "http://blog.timshan.idv.tw/2026/01/health-dga2025-2030.html",
         "published_date": "2026-01-11T18:00:00.010+08:00",
@@ -3619,31 +3643,6 @@
             "代謝症候群",
             "肥胖",
             "餐後血糖"
-        ]
-    },
-    {
-        "title": "[HowTo] 將Android的Chrome瀏覽器工具列(包含網址列)移至底部的快速設定",
-        "link": "http://blog.timshan.idv.tw/2025/06/howto-androidchrome.html",
-        "published_date": "2025-06-21T12:21:00.001+08:00",
-        "updated_date": "2025-06-21T12:21:35.214+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fD05zfEAP7gpUi3Gt6EcrNucMmBoawVBb5AmXqaIAzkZltIUYD1DnQ5hDShAFYIXB9sAZTcDCmShsMx_65gq5S5ZMHPpSZMykOgjtw4x_JU3jdhGFvv8J0xPPmCX7k_FstcRHH3cDDX9eO23nvpXVVVzJujnfmF1530KMFc-1ABVtzD2AzhlmMpmFAku/s1600/062101.png",
-        "summary": "最近剛換了新手機，一開啟 Chrome瀏覽器，發現網址列怎麼在上方？之前明明就設定過了，但我怎麼找都找不到相關選項。後來上網搜尋後，發現可以使用 chrome://flags 的方式進行設定，以下是設定步驟： ✅ 使用 chrome://f...",
-        "tags": [
-            "Android",
-            "Google Chrome",
-            "HowTo"
-        ],
-        "ai_keywords": [
-            "Chrome",
-            "Android",
-            "網址列",
-            "底部",
-            "chrome://flags",
-            "#android-bottom-toolbar",
-            "工具列",
-            "設定",
-            "修改",
-            "瀏覽器"
         ]
     }
 ]
