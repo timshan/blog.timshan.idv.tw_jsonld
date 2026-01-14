@@ -1,5 +1,43 @@
 [
     {
+        "title": "[health] 瘦瘦筆也能救肝？FDA 核准兩款新藥，2025 脂肪肝治療與診斷全解析",
+        "link": "http://blog.timshan.idv.tw/2025/12/health-fda-2025.html",
+        "published_date": "2025-12-07T17:58:00.006+08:00",
+        "updated_date": "2026-01-14T23:16:34.087+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpRdEgnSqIPnMFf3ZEk4_IzG6pXwXJVo_J_tB34-EC_FpIUpYspIqII1tNWkA_AfJUFUR9-6sFcFmXYHOXVD8rIjp0H0hhA9iaj9PYRYO0KqpmeihnUiTf50xBAqHnLsQRwg74M15mdFocb1CWfRO822Y13WdGel08ZuxX71sOkLHncf2HEf-s5j2UNF05/s1600/1000002554.jpg",
+        "summary": "這篇基於 2025 年《JAMA》綜述的專欄指出，代謝功能障礙相關脂肪性肝病（MASLD）全球盛行率達 30%-40%，且主要死因是心血管疾病而非肝病。文章解析了新診斷標準、針對高風險群的 FIB-4 篩檢策略，以及減重對逆轉病情的關鍵作用。",
+        "tags": [
+            "health",
+            "脂肪肝",
+            "腸泌素"
+        ],
+        "ai_keywords": [
+            "MASLD",
+            "脂肪肝",
+            "MASH",
+            "FIB-4 指數",
+            "心血管疾病",
+            "肝纖維化",
+            "Resmetirom",
+            "Semaglutide",
+            "第 2 型糖尿病",
+            "減重"
+        ]
+    },
+    {
+        "title": "[health] DGA2025-2030：第七章鈉與其他微量營養素導讀——從代謝觀點重構微量元素指引",
+        "link": "http://blog.timshan.idv.tw/2026/01/health-dga2025-2030_14.html",
+        "published_date": "2026-01-14T21:35:00.002+08:00",
+        "updated_date": "2026-01-14T21:35:56.379+08:00",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtPpvXeHIipmGUtrjnUpjsqeYwV3-jXsglNCJJSLeA2fD2MdMLmeFYj3uRw5cy1f7A_uL9wn7y9-_MgnDzLKnBh8mH8-ysM-_y6bzqcPXVJCAUVA3XE8QgCBnEsTgyAdUkEZJy1FULV3Cww8D1GmsIpwjynncJzGiUo5bTFZA4mns29jjmc9CTNtPoh5BR/s1600/20260114info001.webp",
+        "summary": "DGA 2025-2030 科學報告揭示鈉攝取與健康呈 J 型曲線，極低鈉飲食（<2300mg）缺乏強證據且恐惡化胰島素阻抗。報告強調應優化「鈉鉀比」並消除超加工食品，而非盲目限鹽。此外，植物性飲食受抗營養因子干擾，易導致鐵、鋅、膽鹼及碘的隱性飢餓，臨床應重視生物利用率與精準補充。",
+        "tags": [
+            "health",
+            "膳食營養素參考攝取量"
+        ],
+        "ai_keywords": []
+    },
+    {
         "title": "[How To] Excel函數使用教學（含範例）：Xlookup",
         "link": "http://blog.timshan.idv.tw/2025/10/how-to-excelxlookup.html",
         "published_date": "2025-10-31T18:00:00.005+08:00",
@@ -1446,30 +1484,6 @@
             "基因調控",
             "染色質可及性",
             "代謝健康"
-        ]
-    },
-    {
-        "title": "[health] 瘦瘦筆也能救肝？FDA 核准兩款新藥，2025 脂肪肝治療與診斷全解析",
-        "link": "http://blog.timshan.idv.tw/2025/12/health-fda-2025.html",
-        "published_date": "2025-12-07T17:58:00.005+08:00",
-        "updated_date": "2025-12-07T17:58:53.497+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpRdEgnSqIPnMFf3ZEk4_IzG6pXwXJVo_J_tB34-EC_FpIUpYspIqII1tNWkA_AfJUFUR9-6sFcFmXYHOXVD8rIjp0H0hhA9iaj9PYRYO0KqpmeihnUiTf50xBAqHnLsQRwg74M15mdFocb1CWfRO822Y13WdGel08ZuxX71sOkLHncf2HEf-s5j2UNF05/s1600/1000002554.jpg",
-        "summary": "這篇基於 2025 年《JAMA》綜述的專欄指出，代謝功能障礙相關脂肪性肝病（MASLD）全球盛行率達 30%-40%，且主要死因是心血管疾病而非肝病。文章解析了新診斷標準、針對高風險群的 FIB-4 篩檢策略，以及減重對逆轉病情的關鍵作用。",
-        "tags": [
-            "health",
-            "腸泌素"
-        ],
-        "ai_keywords": [
-            "MASLD",
-            "脂肪肝",
-            "代謝功能障礙相關脂肪性肝病",
-            "FIB-4 指數",
-            "肝纖維化",
-            "心血管疾病",
-            "減重",
-            "Resmetirom",
-            "Semaglutide",
-            "代謝症候群"
         ]
     },
     {
@@ -3605,39 +3619,6 @@
             "代謝健康",
             "減重策略",
             "葡萄糖代謝"
-        ]
-    },
-    {
-        "title": "[文獻摘要] 你以為是纖維不夠？其實便祕可能是高脂飲食惹的禍！",
-        "link": "http://blog.timshan.idv.tw/2025/05/blog-post_10.html",
-        "published_date": "2025-05-10T16:00:00.024+08:00",
-        "updated_date": "2025-09-02T23:04:24.330+08:00",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxsx4sPRurBM_lHKTMTmqwT1LcnQCqSOz7ZUCxSOOGlenwAMSL6wti2Phbx1jR6agp3LhMYAGAkq8TXnmBofyRZCitIJP9vf3LAByibmHaZpFk38oxu1bIrokwZ8nub-M9UUsPVhMvq4v42xDjaZXg8r2rcKmGpFKt7qztc9uEt4o5XCnvPqgV_m-48oo5/s1600/fatboy.png",
-        "summary": "便祕不只是纖維吃太少？七篇研究揭示高脂飲食如何從腸道菌相、荷爾蒙分泌到腸胃蠕動影響你的排便節奏，改變你對脂肪的想像。",
-        "tags": [
-            "CCK",
-            "GLP-1",
-            "health",
-            "便祕",
-            "排便困難",
-            "文獻摘要",
-            "腸道荷爾蒙",
-            "腸道菌相",
-            "腸道蠕動",
-            "飲食研究",
-            "高脂飲食"
-        ],
-        "ai_keywords": [
-            "高脂飲食",
-            "腸胃蠕動",
-            "肥胖",
-            "便祕",
-            "腸道菌相",
-            "短鏈脂肪酸",
-            "胃排空",
-            "腸道神經",
-            "消化道激素",
-            "丁酸"
         ]
     }
 ]
